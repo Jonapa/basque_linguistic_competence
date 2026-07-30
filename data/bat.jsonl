@@ -1,0 +1,762 @@
+{"sentence_good": "Legearen aurkakoa ez dena zilegi da.", "sentence_bad": "Legearen aurkakoa ez dena zilegia da."}
+{"sentence_good": "Legearen aurkakoa ez dena zilegi da.", "sentence_bad": "Legearen aurkakoa ez dena zilegizkoa da."}
+{"sentence_good": "Naturaren eskubide gorenari esker, bakoitzari zilegi zaio bere onurari, ustez, dagokiona egitea.", "sentence_bad": "Naturaren eskubide gorenari esker, bakoitzari zilegia zaio bere onurari, ustez, dagokiona egitea."}
+{"sentence_good": "Naturaren eskubide gorenari esker, bakoitzari zilegi zaio bere onurari, ustez, dagokiona egitea.", "sentence_bad": "Naturaren eskubide gorenari esker, bakoitzari zilegizkoa zaio bere onurari, ustez, dagokiona egitea."}
+{"sentence_good": "Eskaera egin duen erakundeak zilegi du helegitea aintzat ez hartzea.", "sentence_bad": "Eskaera egin duen erakundeak zilegia du helegitea aintzat ez hartzea."}
+{"sentence_good": "Eskaera egin duen erakundeak zilegi du helegitea aintzat ez hartzea.", "sentence_bad": "Eskaera egin duen erakundeak zilegizkoa du helegitea aintzat ez hartzea."}
+{"sentence_good": "Ezin da, noski, baieztapen ukroniko seriorik egin, baina Barojak edota Unamunok, gaur bizi izatera, euskaraz idatziko zutela pentsatzea zilegi iruditzen zait.", "sentence_bad": "Ezin da, noski, baieztapen ukroniko seriorik egin, baina Barojak edota Unamunok, gaur bizi izatera, euskaraz idatziko zutela pentsatzea zilegia iruditzen zait."}
+{"sentence_good": "Ezin da, noski, baieztapen ukroniko seriorik egin, baina Barojak edota Unamunok, gaur bizi izatera, euskaraz idatziko zutela pentsatzea zilegi iruditzen zait.", "sentence_bad": "Ezin da, noski, baieztapen ukroniko seriorik egin, baina Barojak edota Unamunok, gaur bizi izatera, euskaraz idatziko zutela pentsatzea zilegizkoa iruditzen zait."}
+{"sentence_good": "Ez dugu zertan horrela ibili.", "sentence_bad": "Ez dugu zertan horrela ibili beharrik."}
+{"sentence_good": "Ez dugu horrela ibili beharrik.", "sentence_bad": "Ez dugu zertan horrela ibili beharrik."}
+{"sentence_good": "Ez dago zertan larritu huskeria horrengatik.", "sentence_bad": "Ez dago zertan larritu beharrik huskeria horrengatik."}
+{"sentence_good": "Ez dago larritu beharrik huskeria horrengatik.", "sentence_bad": "Ez dago zertan larritu beharrik huskeria horrengatik."}
+{"sentence_good": "Ez daukazu zertan horrenbeste nekerik hartu.", "sentence_bad": "Ez daukazu zertan horrenbeste neke hartu beharrik."}
+{"sentence_good": "Ez daukazu horrenbeste nekerik hartu beharrik.", "sentence_bad": "Ez daukazu zertan horrenbeste neke hartu beharrik."}
+{"sentence_good": "Bi liburu hauetatik, zein liburu nahi duzu?", "sentence_bad": "Bi liburu hauetatik, zer liburu nahi duzu?"}
+{"sentence_good": "Erosi dituzun hiru liburu horien artean, zein izan da garestiena?", "sentence_bad": "Erosi dituzun hiru liburu horien artean, zer izan da garestiena?"}
+{"sentence_good": "Plater hauek guztiak garbitu behar dituzu.", "sentence_bad": "Plater guzti hauek garbitu behar dituzu."}
+{"sentence_good": "Garai batean, gauza horiei guztiei begiratzean, pentsatzen nuen: zoriontsu dira bata besteagatik.", "sentence_bad": "Garai batean, gauza guzti horiei begiratzean, pentsatzen nuen: zoriontsu dira bata besteagatik."}
+{"sentence_good": "Juliak ezagutzen ditu pasadizo horiek denak.", "sentence_bad": "Juliak ezagutzen ditu pasadizo dena horiek."}
+{"sentence_good": "Behartuta nago baietzarekin erantzutera galdera horiei denei.", "sentence_bad": "Behartuta nago baietzarekin erantzutera galdera dena horiei."}
+{"sentence_good": "Zenbat eta zaharragoa izan biztanleria, orduan eta etorkin-kopuru handiagoa izango da gizartean.", "sentence_bad": "Orduan eta zaharragoa izan biztanleria, orduan eta etorkin-kopuru handiagoa izango da gizartean."}
+{"sentence_good": "Zenbat eta salgai gehiago egon, orduan eta aberatsagoa izango da azoka.", "sentence_bad": "Zenbat eta salgai gehiago egon, gero eta aberatsagoa izango da azoka."}
+{"sentence_good": "Zenbat eta aberatsagoago, orduan eta zoritxarrekoago.", "sentence_bad": "Gero eta aberatsagoago, orduan eta zorritxarrekoago."}
+{"sentence_good": "Izurriteak populazioaren bi heren hil zituen bi urtean, 1402-1404 bitartean.", "sentence_bad": "Izurriteak populazioaren bi herenak hil zituen bi urtean, 1402-1404 bitartean."}
+{"sentence_good": "Tartaren laurdena jan dut.", "sentence_bad": "Tartaren laurena jan dut."}
+{"sentence_good": "Tartaren herena jan dut.", "sentence_bad": "Tartaren hirurena jan dut."}
+{"sentence_good": "Tartaren erdia jan dut.", "sentence_bad": "Tartaren birena jan dut."}
+{"sentence_good": "Autobusa 3etan etorri da.", "sentence_bad": "Autobusa 3retan etorri da."}
+{"sentence_good": "Autobusa 4etan etorri da.", "sentence_bad": "Autobusa 4retan etorri da."}
+{"sentence_good": "Autobusa hiruretan etorri da.", "sentence_bad": "Autobusa hiruetan etorri da."}
+{"sentence_good": "Autobusa 10etan etorri da.", "sentence_bad": "Autobusa 10retan etorri da."}
+{"sentence_good": "Autobusa lauretan etorri da.", "sentence_bad": "Autobusa lauetan etorri da."}
+{"sentence_good": "Urriaren 25ean hasi, eta azaroaren 11n amaitu zen ikastaroa.", "sentence_bad": "Urriaren 25an hasi, eta azaroaren 11n amaitu zen ikastaroa."}
+{"sentence_good": "Urriaren 25ean hasi, eta azaroaren 11n amaitu zen ikastaroa.", "sentence_bad": "Urriaren 25ean hasi, eta azaroaren 11an amaitu zen ikastaroa."}
+{"sentence_good": "Hiru etorri dira, eta hirurak euskaldunak.", "sentence_bad": "Hiru etorri dira, eta hiruak euskaldunak."}
+{"sentence_good": "Sei etorri dira, eta seiak euskaldunak.", "sentence_bad": "Sei etorri dira, eta seirak euskaldunak."}
+{"sentence_good": "Dirutza zen 25 pezeta 60ko hamarkadan.", "sentence_bad": "Dirutza zen 25 pezeta 60. hamarkadan."}
+{"sentence_good": "Egitasmoak gain behera egin zuen 1950eko hamarkadan.", "sentence_bad": "Egitasmoak gain behera egin zuen 1950.eko hamarkadan."}
+{"sentence_good": "Egitasmoak gain behera egin zuen 1950eko hamarkadan.", "sentence_bad": "Egitasmoak gain behera egin zuen 1950. hamarkadan."}
+{"sentence_good": "Ideia hori artearen filosofiari aplikatu zioten filosofoek XX. mendeko berrogeita hamarreko hamarkadan.", "sentence_bad": "Ideia hori artearen filosofiari aplikatu zioten filosofoek XX. mendeko berrogeita hamargarren hamarkadan."}
+{"sentence_good": "Poliglota da, hainbat hizkuntza dakizki eta.", "sentence_bad": "Poliglota da, hizkuntza desberdinak dakizki eta."}
+{"sentence_good": "Europako zenbait hizkuntza aztertu dituzte.", "sentence_bad": "Europako hizkuntza desberdinak aztertu dituzte."}
+{"sentence_good": "Sistemak dakarzkigun aukera guztiak baliatu behar ditugu.", "sentence_bad": "Sistemak dakarzkigun aukera desberdinak baliatu behar ditugu."}
+{"sentence_good": "Sistemak dakarzkigun zenbait aukera baliatuko ditugu.", "sentence_bad": "Sistemak dakarzkigun aukera desberdinak baliatuko ditugu."}
+{"sentence_good": "Istripu gutxiago izateko, ondo legoke polikiago ibiltzea.", "sentence_bad": "Istripu gutxiago izateko, ondo egongo zen polikiago ibiltzea."}
+{"sentence_good": "Abisatuko balidate, joango nintzateke bilerara.", "sentence_bad": "Abisatuko balidate, joango nintzen bilerara."}
+{"sentence_good": "Hemen balego, merezi bezala erantzungo nioke.", "sentence_bad": "Hemen balego, merezi bezala erantzungo nion."}
+{"sentence_good": "Eremu horretan eguzki-panelak ezarriz gero, etengabe lortuko litzateke eguzki-energia.", "sentence_bad": "Eremu horretan eguzki-panelak ezarriz gero, etengabe lortuko zen eguzki-energia."}
+{"sentence_good": "Hobe luke ile-zaku ergel handi horrek bakean utziko balu!", "sentence_bad": "Hobe zuen ile-zaku ergel handi horrek bakean utziko balu!"}
+{"sentence_good": "Gero, ijitoarengana biratu zen, zeina dardarka zegoen.", "sentence_bad": "Gero, ijitoarengana biratu zen, dardarka zegoena."}
+{"sentence_good": "Akatsak aurkitu dituzte Veneziako zubi berrian, zeina Calatravak diseinatu baitu.", "sentence_bad": "Akatsak aurkitu dituzte Veneziako zubi berrian, Calatravak diseinatu duena."}
+{"sentence_good": "Bizkarra ematen diote lurrez eta harriz josiriko anabasa hari, zeina hazten eta katramilatzen ari baita txaluparen bi aldeetan.", "sentence_bad": "Bizkarra ematen diote lurrez eta harriz josiriko anabasa hari, hazten eta katramilatzen ari dena txaluparen bi aldeetan."}
+{"sentence_good": "Kalean zehar korrika zihoan.", "sentence_bad": "Kalearen zehar korrika zihoan."}
+{"sentence_good": "Kaletik zehar korrika zihoan.", "sentence_bad": "Kalearen zehar korrika zihoan."}
+{"sentence_good": "Munduan zehar korrika zihoan.", "sentence_bad": "Munduaren zehar korrika zihoan."}
+{"sentence_good": "Mundutik zehar korrika zihoan.", "sentence_bad": "Munduaren zehar korrika zihoan."}
+{"sentence_good": "Usaina gelan zehar hedatu zen.", "sentence_bad": "Usaina gelaren zehar hedatu zen."}
+{"sentence_good": "Usaina gelatik zehar hedatu zen.", "sentence_bad": "Usaina gelaren zehar hedatu zen."}
+{"sentence_good": "Bideak urratu dituzte mendietan zehar.", "sentence_bad": "Bideak urratu dituzte mendien zehar."}
+{"sentence_good": "Bideak urratu dituzte mendietatik zehar.", "sentence_bad": "Bideak urratu dituzte mendien zehar."}
+{"sentence_good": "Orain dela bost urte izan ginen Eskozian.", "sentence_bad": "Orain direla bost urte izan ginen Eskozian."}
+{"sentence_good": "Orain dela bost urte izan ginen Eskozian.", "sentence_bad": "Orain zela bost urte izan ginen Eskozian."}
+{"sentence_good": "Duela bi aste agortu dira sarrerak.", "sentence_bad": "Dituela bi aste agortu dira sarrerak."}
+{"sentence_good": "Duela zazpiehun urte gertatu zen.", "sentence_bad": "Zuela zazpiehun urte gertatu zen."}
+{"sentence_good": "Esperientziak gidatzen dituen garuneko sektore modernoetako (esate baterako, neokortexeko) zirkuituen jarduera ezinbestekoa da irudikapen neural mota jakin bat sorrarazteko.", "sentence_bad": "Esperientziak gidatzen dituen garuneko sektore modernoetako (esate baterako, neokortexeko) zirkuituen jarduera ezinbestekoa da irudikapen neuralen mota jakin bat sorrarazteko."}
+{"sentence_good": "Harri preziatu motak.", "sentence_bad": "Harri preziatuen motak."}
+{"sentence_good": "Inurri tropikal motak.", "sentence_bad": "Inurri tropikalen motak."}
+{"sentence_good": "Mandioak eta ganbarak alez bete ziren udazkenean.", "sentence_bad": "Mandioak eta ganbarak aleez bete ziren udazkenean."}
+{"sentence_good": "Marfilezko makilatxoak, denak irudi biziz josiak.", "sentence_bad": "Marfilezko makilatxoak, denak irudi biziez josiak."}
+{"sentence_good": "Janariz hornitu zituzten hiriak.", "sentence_bad": "Janariez hornitu zituzten hiriak."}
+{"sentence_good": "Izaki bizidunak zelulaz osatuta daude.", "sentence_bad": "Izaki bizidunak zelulez osatuta daude."}
+{"sentence_good": "Hostozko apainduraz margotutako jauregiak.", "sentence_bad": "Hostozko apaindurez margotutako jauregiak."}
+{"sentence_good": "Mahai-ertzak erreduraz josita zeuden.", "sentence_bad": "Mahai-ertzak erredurez josita zeuden."}
+{"sentence_good": "Pintaketaz beteta zeuden metroko hormak.", "sentence_bad": "Pintaketez beteta zeuden metroko hormak."}
+{"sentence_good": "Estroma-zelulak folikuluaren inguruan elkartzen dira eta zelula ugariz osatutako geruza bat osatzen dute: folikulu-teka.", "sentence_bad": "Estroma-zelulak folikuluaren inguruan elkartzen dira eta zelula ugariez osatutako geruza bat osatzen dute: folikulu-teka."}
+{"sentence_good": "Don Karlosek euskaldunez baliatu nahi izan zuen tronuan esertzeko.", "sentence_bad": "Don Karlosek euskaldunetaz baliatu nahi izan zuen tronuan esertzeko."}
+{"sentence_good": "Gogora zaitez azterturiko arauez.", "sentence_bad": "Gogora zaitez azterturiko arautaz."}
+{"sentence_good": "Bizi naizeino oroituko naiz nire herriko adiskideez.", "sentence_bad": "Bizi naizeino oroituko naiz nire herriko adiskidetaz."}
+{"sentence_good": "Ez zen konturatu kalteez.", "sentence_bad": "Ez zen konturatu kaltetaz."}
+{"sentence_good": "Bi arazoz arduratuko gara.", "sentence_bad": "Bi arazotaz arduratuko gara."}
+{"sentence_good": "Ikertzen ari garen kolektiboaren ikuspen oso gerturako aukera ematen digu horrek.", "sentence_bad": "Ikertzen ari garen kolektiboaren ikuspen oso gerturako baimena ematen digu horrek."}
+{"sentence_good": "Guztiz integratutako gehigarri kudeatzaileak bidea ematen du beste batzuek garatutako gehigarriak ere ikusi, kudeatu eta ezgaitzeko.", "sentence_bad": "Guztiz integratutako gehigarri kudeatzaileak baimena ematen digu beste batzuek garatutako gehigarriak ere ikusi, kudeatu eta ezgaitzeko."}
+{"sentence_good": "Hartzitutako soja-haziekin egiten da Natto-a, eta usain txarra du.", "sentence_bad": "Hartzitutako soja-haziekin egiten da Natto-a, eta gaizki usaintzen du."}
+{"sentence_good": "Tropiko aldeko arbola baten fruitua da, eta oso usain ona du.", "sentence_bad": "Tropiko aldeko arbola baten fruitua da, eta oso ongi usaintzen du."}
+{"sentence_good": "60ko hamarkadan industria-alorrak hazkunde handia izan zuen.", "sentence_bad": "60ko hamarkadan industria-alorrak hazkunde handia ezagutu zuen."}
+{"sentence_good": "Eagles taldeak arrakasta handia lortu zuen kantu honekin 70eko hamarkadan.", "sentence_bad": "Eagles taldeak arrakasta handia ezagutu zuen kantu honekin 70eko hamarkadan."}
+{"sentence_good": "Zelularen mintza ikertu zuten, eta haren barne-egitura berezia zela ondorioztatu.", "sentence_bad": "Zelularen mintza ikasi zuten, eta haren barne-egitura berezia zela ondorioztatu."}
+{"sentence_good": "Adeitasunez, agurtzen zaitut.", "sentence_bad": "Adeitasunez, agurtzen naiz."}
+{"sentence_good": "Adeitasunez, agur.", "sentence_bad": "Adeitasunez, agurtzen naiz."}
+{"sentence_good": "Autopistan gehienez 25 euro ordaintzea ez dago batere gaizki.", "sentence_bad": "Autopistan gehienez 25 euro ordaintzearena ez dago batere gaizki."}
+{"sentence_good": "Hala ere, hiriburuetan sartzeagatik kobratzea proposamen bat baino ez da.", "sentence_bad": "Hala ere, hiriburuetan sartzeagatik kobratzearena proposamen bat baino ez da."}
+{"sentence_good": "Txikitako asmoa zen kazetaritza ikastea.", "sentence_bad": "Txikitako asmoa zen kazetaritza ikastearena."}
+{"sentence_good": "Helburua irakaskuntza esanguratsuagoa lortzea da.", "sentence_bad": "Helburua irakaskuntza esanguratsuagoa lortzearena da."}
+{"sentence_good": "Ezkerreko ertzeko espaloia 2,75 metro handitu da.", "sentence_bad": "Ezkerreko ertzeko espaloia 2,75 metrotan handitu da."}
+{"sentence_good": "20 urterako 120.000 euroko hipoteka dutenei kuota bost euro merkatu zaie hilean.", "sentence_bad": "20 urterako 120.000 euroko hipoteka dutenei kuota bost eurotan merkatu zaie hilean."}
+{"sentence_good": "Lurreko tenperatura 4,8 gradu igo daiteke mende amaierarako.", "sentence_bad": "Lurreko tenperatura 4,8 gradutan igo daiteke mende amaierarako."}
+{"sentence_good": "Partida irabazteko asmoz zelairatu ziren jokalariak.", "sentence_bad": "Partida irabazi asmoz zelairatu ziren jokalariak."}
+{"sentence_good": "Gero, txilardi zabaletan, laborantzarako eremu txikiak tartekatuz joan ziren.", "sentence_bad": "Gero, txilardi zabaletan, laborantzarako eremu txikiak tartekatzen joan ziren."}
+{"sentence_good": "Ama etortzean hasiko gara bazkaltzen.", "sentence_bad": "Ama etortzerakoan hasiko gara bazkaltzen."}
+{"sentence_good": "Txiletik itzultzean, albiste onak ekarri zituen.", "sentence_bad": "Txiletik itzultzerakoan, albiste onak ekarri zituen."}
+{"sentence_good": "Jendaurrean hitz egitean, ozen eta garbi, ozen eta garbi ahoskatu behar dira hitzak.", "sentence_bad": "Jendaurrean hitz egiterakoan, ozen eta garbi, ozen eta garbi ahoskatu behar dira hitzak."}
+{"sentence_good": "Hiltzean, akabo niretzat mundua!", "sentence_bad": "Hiltzerakoan, akabo niretzat mundua!"}
+{"sentence_good": "Gai horretaz mintzatzeko orduan, garrantzitsua da zuzentasuna.", "sentence_bad": "Gai horretaz mintzatzerako orduan, garrantzitsua da zuzentasuna."}
+{"sentence_good": "Forma estetikoa aztertzeko orduan, batik bat zehaztasuna izan dugu gidari.", "sentence_bad": "Forma estetikoa aztertzerako orduan, batik bat zehaztasuna izan dugu gidari."}
+{"sentence_good": "Kostu horiek zehazteko orduan, hainbat prozedura erabil daitezke.", "sentence_bad": "Kostu horiek zehazterako orduan, hainbat prozedura erabil daitezke."}
+{"sentence_good": "Animalien sailkapena egiteko garaian, genetikak agintzen du gaur egun.", "sentence_bad": "Animalien sailkapena egiterako garaian, genetikak agintzen du gaur egun."}
+{"sentence_good": "Orduan, hamarretan jarriko dugu hitzordua.", "sentence_bad": "Orduan, hamarretan jartzen dugu hitzordua."}
+{"sentence_good": "Zer, andereño, egingo dugu sokasaltoan?", "sentence_bad": "Zer, andereño, egiten dugu sokasaltoan?"}
+{"sentence_good": "Tira, ba, etxean utziko zaitut.", "sentence_bad": "Tira, ba, etxean uzten zaitut."}
+{"sentence_good": "Hartuko dugu kafe bat?", "sentence_bad": "Hartzen dugu kafe bat?"}
+{"sentence_good": "Euria eginez gero, astiroago gidatu, mesedez.", "sentence_bad": "Euria egitekotan, astiroago gidatu, mesedez."}
+{"sentence_good": "Muntaketak istorioko gertaeren maiztasuna errespetatuko duela espero du ikusleak.", "sentence_bad": "Muntaketak istorioko gertaeren maiztasuna errespeta dezala espero du ikusleak."}
+{"sentence_good": "Espero dugu filmaren lehen zatian azaldu diren pertsonaia nagusiak bigarren zatian ere agertzea.", "sentence_bad": "Espero dugu filmaren lehen zatian azaldu diren pertsonaia nagusiak bigarren zatian ere ager daitezela."}
+{"sentence_good": "Beldur handia sortu du sute horrek hango jendeen baitan.", "sentence_bad": "Beldur asko sortu du sute horrek hango jendeen baitan."}
+{"sentence_good": "Jendearen esanei beldur gutxi die Karmele.", "sentence_bad": "Jendearen esanei beldur txikia die Karmele."}
+{"sentence_good": "Lotsa handia sentitu zuen Peruk Ane aurrez aurre ikusi zuenean.", "sentence_bad": "Lotsa asko sentitu zuen Peruk Ane aurrez aurre ikusi zuenean."}
+{"sentence_good": "Lotsa gutxi erakusten du Jonek edozeinen aurrean.", "sentence_bad": "Lotsa txikiz erakusten du Jonek edozeinen aurrean."}
+{"sentence_good": "Pazientzia handia behar da umeekin.", "sentence_bad": "Pazientzia asko behar da umeekin."}
+{"sentence_good": "Jatorra, alaia eta pazientzia gutxikoa: halakoxea zen gure Martina.", "sentence_bad": "Jatorra, alaia eta pazientzia txikikoa: halakoxea zen gure Martina."}
+{"sentence_good": "Nerbio-tentsio handia sortzen dio lanak, eta oinazeak izaten ditu maiz bizkarraldean.", "sentence_bad": "Nerbio-tentsio asko sortzen dio lanak, eta oinazeak izaten ditu maiz bizkarraldean."}
+{"sentence_good": "Tentsio handiko eguna izan da gaurkoa.", "sentence_bad": "Tentsio askoko eguna izan da gaurkoa."}
+{"sentence_good": "Tenperatura-tarte jakin batean oso bigunak dira halako metalak, eta tentsio txiki bat nahikoa dute luzatzeko.", "sentence_bad": "Tenperatura-tarte jakin batean oso bigunak dira halako metalak, eta tentsio gutxi bat nahikoa dute luzatzeko."}
+{"sentence_good": "Desabantaila nagusia da bihurketa-denbora luzea eta aldakorra behar izatea.", "sentence_bad": "Desabantaila nagusia da bihurketa-denbora asko eta aldakorra behar izatea."}
+{"sentence_good": "Lesio motaren arabera bi disfuntzio mota berezi dira.", "sentence_bad": "Lesio motaren arabera bi disfuntzio mota bereiztu dira."}
+{"sentence_good": "Alderdiko hainbat kide sektore ofizialetik bereizi ziren.", "sentence_bad": "Alderdiko hainbat kide sektore ofizialetik bereiztu ziren."}
+{"sentence_good": "Pobre biluzia inork ezin du berriz biluzi.", "sentence_bad": "Pobre biluzia inork ezin du berriz biluztu."}
+{"sentence_good": "Denek miretsi zuten haren kemena.", "sentence_bad": "Denek mirestu zuten haren kemena."}
+{"sentence_good": "Harritu eta miretsi ziren guztiak hain albiste ona entzunda.", "sentence_bad": "Harritu eta mirestu ziren guztiak hain albiste ona entzunda."}
+{"sentence_good": "Krisia dela eta, asko jaitsi da etxebizitzen balioa.", "sentence_bad": "Krisia dela eta, asko jaitsi da etxebizitzen balorea."}
+{"sentence_good": "Makilaz jo zuten mahaia.", "sentence_bad": "Makilaz kolpatu zuten mahaia."}
+{"sentence_good": "Digitu bakarreko zenbakia lortzeko egin behar den biderketa kopuruari deritzo persistentzia.", "sentence_bad": "Digitu bakarreko zenbakia lortzeko egin behar den biderketa-zenbakiari deritzo persistentzia."}
+{"sentence_good": "Bizikleten martxaren aurkako debekua kendu zuen epaileak herenegun.", "sentence_bad": "Bizikleten martxaren aurkako debekua altxatu zuen epaileak herenegun."}
+{"sentence_good": "Nazioarteak Irani ezarritako isunetako batzuk kendu ostean, aukera gehiago sor daitezke.", "sentence_bad": "Nazioarteak Irani ezarritako isunetako batzuk altxatu ostean, aukera gehiago sor daitezke."}
+{"sentence_good": "Filmak etxean ikusteko, DVD aparatu bat erosi dut.", "sentence_bad": "Filmak etxean ikusteko, DVD aparailu bat erosi dut."}
+{"sentence_good": "Lana lortzen dudanean, bikotekidearekin biziko naiz.", "sentence_bad": "Lana lortzen dudanean, bikotearekin biziko naiz."}
+{"sentence_good": "Ez dakit non utzi dudan galtzerdi honen laguna.", "sentence_bad": "Ez dakit non utzi dudan galtzerdi honen bikotea."}
+{"sentence_good": "Ainhoa dut dantza-lagun.", "sentence_bad": "Ainhoa dut dantza-bikote."}
+{"sentence_good": "Lehenengo gizakiak kobazuloetan bizi ziren, eta ehiztariak eta sarraskijaleak ziren.", "sentence_bad": "Lehenengo gizonak kobazuloetan bizi ziren, eta ehiztariak eta sarraskijaleak ziren."}
+{"sentence_good": "Gurasoak seme-alaben jokabideen erantzuleak dira.", "sentence_bad": "Gurasoak seme-alaben jokabideen arduradunak dira."}
+{"sentence_good": "Hiru faktore dira VO2-aren hazkuntzaren eragileak.", "sentence_bad": "Hiru faktore dira VO2-aren hazkuntzaren arduradunak."}
+{"sentence_good": "Istripuaren erruduna legezkoa baino gehiago edanda zegoen gizon bat zen.", "sentence_bad": "Istripuaren arduraduna legezkoa baino gehiago edanda zegoen gizon bat zen."}
+{"sentence_good": "Oso oker zabiltza uste baduzu ez nauzula mindu.", "sentence_bad": "Oso oker zabiltza suposatzen baduzu ez nauzula mindu."}
+{"sentence_good": "Pentsatzekoa da handituko egingo dela energia-kontsumoa.", "sentence_bad": "Suposatzekoa da handituko egingo dela energia-kontsumoa."}
+{"sentence_good": "Uste dut garaiz etorriko dela.", "sentence_bad": "Suposatzen dut garaiz etorriko dela."}
+{"sentence_good": "Eman dezagun espirak ω abiadura angeluar konstantean egiten duela bira.", "sentence_bad": "Suposa dezagun espirak ω abiadura angeluar konstantean egiten duela bira."}
+{"sentence_good": "Produktu horiek barruko merkataritzaren % 50 dira.", "sentence_bad": "Produktu horiek barruko merkataritzaren % 50 suposatzen dute."}
+{"sentence_good": "Turismoa inbertsio atzerritar zuzenaren % 31,5 da.", "sentence_bad": "Turismoa inbertsio atzerritar zuzenaren % 31,5 suposatzen du."}
+{"sentence_good": "Nekazaritzak metano-isurien % 49 eragiten du.", "sentence_bad": "Nekazaritzak metano-isurien % 49 suposatzen du."}
+{"sentence_good": "Klima-aldaketa areagotzen duten isurkien % 30 eragiten du garraioak.", "sentence_bad": "Klima-aldaketa areagotzen duten isurkien % 30 suposatzen du garraioak."}
+{"sentence_good": "Tratamendu psikologikoaren definizio bateraturik ez izatea ekarri du egoera horrek.", "sentence_bad": "Tratamendu psikologikoaren definizio bateraturik eza suposatu du egoera horrek."}
+{"sentence_good": "Bi ordenagailu elkarrekin lotuta egotea eskatzen du programa hori erabiltzeak.", "sentence_bad": "Bi ordenagailu elkarrekin lotuta egotea suposatzen du programa hori erabiltzeak."}
+{"sentence_good": "Ezetz heldu tontorreraino!", "sentence_bad": "Ezetz heldu tontorrera arte!"}
+{"sentence_good": "Aritxatxuraino hedatu zen petrolio-orbana.", "sentence_bad": "Aritxatxura arte hedatu zen petrolio-orbana."}
+{"sentence_good": "Kokoteraino ditu gurasoak.", "sentence_bad": "Kokotera arte ditu gurasoak."}
+{"sentence_good": "Dardarka hasteraino urduritu zen.", "sentence_bad": "Dardarka hasi arte urduritu zen."}
+{"sentence_good": "Gai horri buruz ez dugu libururik aurkitu.", "sentence_bad": "Gai horri buruz ez ditugu libururik aurkitu."}
+{"sentence_good": "Udara arte ez dugu berriro oporrik izango.", "sentence_bad": "Udara arte ez ditugu berriro oporrik izango."}
+{"sentence_good": "Erabaki hori dela kausa ez da herritarrik kaltetuko.", "sentence_bad": "Erabaki hori dela kausa ez dira herritarrik kaltetuko."}
+{"sentence_good": "Finantzaketa emango zion hartzekodunik gabe geratu zen Ekuador.", "sentence_bad": "Finantzaketa emango zioten hartzekodunik gabe geratu zen Ekuador."}
+{"sentence_good": "Bilboko autobusa 15 minutuan behin irteten da.", "sentence_bad": "Bilboko autobusa 15 minuturo irteten da."}
+{"sentence_good": "Bilboko autobusa 15 minututik behin irteten da.", "sentence_bad": "Bilboko autobusa 15 minuturo irteten da."}
+{"sentence_good": "Bilboko autobusa 15 minutuz behin irteten da.", "sentence_bad": "Bilboko autobusa 15 minuturo irteten da."}
+{"sentence_good": "Bi orduan behin heltzen da trena.", "sentence_bad": "Bi orduero heltzen da trena."}
+{"sentence_good": "Intsulina 24 orduan behin hartzeko pauta terapeutikoa.", "sentence_bad": "Intsulina 24 orduro hartzeko pauta terapeutikoa."}
+{"sentence_good": "Apurtuta dauzkat oraindik behatzak.", "sentence_bad": "Apurtutak dauzkat oraindik behatzak."}
+{"sentence_good": "Leihoak apurtuta daude.", "sentence_bad": "Leihoak apurtutak daude."}
+{"sentence_good": "Salduak zituen etxe guztiak.", "sentence_bad": "Salduta zituen etxe guztiak."}
+{"sentence_good": "Salduak zituen etxe guztiak.", "sentence_bad": "Saldurik zituen etxe guztiak."}
+{"sentence_good": "Galdua naiz mendian.", "sentence_bad": "Galduta naiz mendian."}
+{"sentence_good": "Galdua naiz mendian.", "sentence_bad": "Galdurik naiz mendian."}
+{"sentence_good": "Hala ere, gerta daiteke bien artean lotura estua izatea, eta bata bestea gabe ulertu ezin izatea.", "sentence_bad": "Hala ere, gerta daiteke bien artean lotura estua izatea, eta bata bestea gabe ezin ulertzea."}
+{"sentence_good": "Datu optikoak erraz neurtzen dira, baina baliteke nahi diren propietate optiko guztiak ezin neurtu izatea.", "sentence_bad": "Datu optikoak erraz neurtzen dira, baina baliteke nahi diren propietate optiko guztiak ezin neurtzea."}
+{"sentence_good": "Eskola-porrotaren zioak anitz dira.", "sentence_bad": "Eskola-porrotaren zioak anitzak dira."}
+{"sentence_good": "Isiltasunaren erabilera askotarikoa da.", "sentence_bad": "Isiltasunaren erabilera anitza da."}
+{"sentence_good": "UPV/EHUko ikertzaile talde batek egindako esperimentua.", "sentence_bad": "UPV/EHUko ikertzaile talde batengatik egindako esperimentua."}
+{"sentence_good": "Urteko kontuen orrialde guztiak idazkariak sinatuta aurkezten dira.", "sentence_bad": "Urteko kontuen orrialde guztiak  idazkariarengatik sinatuta aurkezten dira."}
+{"sentence_good": "Muga-denbora gaindituz gero, 0,25 puntu kenduko dute segundoko.", "sentence_bad": "Muga-denbora gaindituz gero, 0,25 puntu kenduko dute segundo bakoitzagatik."}
+{"sentence_good": "A balio guztiak biderkatzen dira 0,5etik beherako konstante batez.", "sentence_bad": "A balio guztiak biderkatzen dira 0,5etik beherako konstante bategatik."}
+{"sentence_good": "Ekuazioaren bi zatiak b-rekin zatituko ditugu.", "sentence_bad": "Ekuazioaren bi zatiak b-gatik zatituko ditugu."}
+{"sentence_good": "Zutaz galdetu zidaten.", "sentence_bad": "Zugatik galdetu zidaten."}
+{"sentence_good": "Zure lekuan joango naiz bilerara.", "sentence_bad": "Zugatik joango naiz bilerara."}
+{"sentence_good": "Trajanoren estatua San Pedroren estatua batez ordezkatu zuten.", "sentence_bad": "Trajanoren estatua San Pedroren estatua bategatik ordezkatu zuten."}
+{"sentence_good": "Zenbatean erosi duzu auto berria?", "sentence_bad": "Zenbategatik erosi duzu auto berria?"}
+{"sentence_good": "Metro koadroa 3.390 euroan saldu da batez beste urtarrilean.", "sentence_bad": "Metro koadroa 3.390 eurogatik saldu da batez beste urtarrilean."}
+{"sentence_good": "Ordenagailua 30 euroan dago salgai.", "sentence_bad": "Ordenagailua 30 eurogatik dago salgai."}
+{"sentence_good": "Ikasleek 55 euroan alokatu dute etxea.", "sentence_bad": "Ikasleek 55 eurogatik alokatu dute etxea."}
+{"sentence_good": "Lanak 2,39 milioi euroan esleitu dituzte.", "sentence_bad": "Lanak 2,39 milioi eurogatik esleitu dituzte."}
+{"sentence_good": "Alice Munro 1931n jaio zen Wingham-en.", "sentence_bad": "Alice Munro 1931n jaiotzen da Wingham-en."}
+{"sentence_good": "Hirutan jasotzen zuen \"Governor General's Award\" saria.", "sentence_bad": "Hirutan jasotzen du \"Governor General's Award\" saria."}
+{"sentence_good": "2013an Literaturako Nobel saria eman zioten.", "sentence_bad": "2013an Literaturako Nobel saria ematen diote."}
+{"sentence_good": "Urte hartan Urruñan bizi zen gurasoekin eta anai-arrebekin; handik gutxira Beskoitzera esposatu zen.", "sentence_bad": "Urte hartan Urruñan bizi zen gurasoekin eta anai-arrebekin; handik gutxira Beskoitzera esposatuko da."}
+{"sentence_good": "Seme-alabak hazi eta, artean sasoiko, familia osoarekin batera Kalifornia aldera jo zuen.", "sentence_bad": "Seme-alabak hazi eta, artean sasoiko, familia osoarekin batera Kalifornia aldera joko du."}
+{"sentence_good": "Liburuaren lehen probak.", "sentence_bad": "Liburuaren lehen frogak."}
+{"sentence_good": "DNA proba egiteko prest dagoela adierazi du Urliak.", "sentence_bad": "DNA froga egiteko prest dagoela adierazi du Urliak."}
+{"sentence_good": "Idatzizko proba gainditu dutenen zerrenda.", "sentence_bad": "Idatzizko froga gainditu dutenen zerrenda."}
+{"sentence_good": "Bihar izango da atari-proba.", "sentence_bad": "Bihar izango da atari-froga."}
+{"sentence_good": "Matematika-proba gainditzeko, tarteko maila edo maila altua lortu behar da.", "sentence_bad": "Matematika-froga gainditzeko, tarteko maila edo maila altua lortu behar da."}
+{"sentence_good": "Hori datuekin frogatu behar da.", "sentence_bad": "Hori datuekin probatu behar da."}
+{"sentence_good": "Lagunak probatzeko esan zuen hori.", "sentence_bad": "Lagunak frogatzeko esan zuen hori."}
+{"sentence_good": "Ondo jokatu du futbolean.", "sentence_bad": "Ondo jolastu du futbolean."}
+{"sentence_good": "Pilota-partida ikusgarria jokatu dute gaur.", "sentence_bad": "Pilota-partida ikusgarria jolastu dute gaur."}
+{"sentence_good": "Ezkutaketan jolasten nintzen txikitan.", "sentence_bad": "Ezkutaketan jolasten nuen txikitan."}
+{"sentence_good": "Besoa luzatu eta adar bati heldu zion.", "sentence_bad": "Besoa luzatu eta adar bat heldu zuen."}
+{"sentence_good": "Tinko heldu nion sokari.", "sentence_bad": "Tinko heldu nuen soka."}
+{"sentence_good": "Besotik heldu nion alde egiteko unean.", "sentence_bad": "Besotik heldu nuen alde egiteko unean."}
+{"sentence_good": "Gerritik heldu zidan.", "sentence_bad": "Gerritik heldu ninduen."}
+{"sentence_good": "Costellok paparretik heldu zion Galanteri.", "sentence_bad": "Costellok paparretik heldu zuen Galante."}
+{"sentence_good": "Bilera bat izan dugu.", "sentence_bad": "Bilera bat ospatu dugu."}
+{"sentence_good": "Duela hiru aste, hauteskundeak izan ziren.", "sentence_bad": "Duela hiru aste, hauteskundeak ospatu ziren."}
+{"sentence_good": "Etxebizitza duinaren aldeko manifestazioa egin genuen Donostian.", "sentence_bad": "Etxebizitza duinaren aldeko manifestazioa ospatu genuen Donostian."}
+{"sentence_good": "Bilboko Auzitegi Nagusian egin da epaiketa.", "sentence_bad": "Bilboko Auzitegi Nagusian ospatu da epaiketa."}
+{"sentence_good": "Eguraldi ona egingo al du?", "sentence_bad": "Eguraldi ona egingo ahal du?"}
+{"sentence_good": "Etorriko al zara?", "sentence_bad": "Etorriko ahal zara?"}
+{"sentence_good": "Biztanle kopurua linealki aldatu delako hipotesia aplikatu dugu.", "sentence_bad": "Biztanle kopurua linealki aldatu delaren hipotesia aplikatu dugu."}
+{"sentence_good": "Biztanle kopurua linealki aldatu delako hipotesia aplikatu dugu.", "sentence_bad": "Biztanle kopurua linealki aldatu denaren hipotesia aplikatu dugu."}
+{"sentence_good": "Biztanle kopurua linealki aldatu delako hipotesia aplikatu dugu.", "sentence_bad": "Biztanle kopurua linealki aldatu deneko hipotesia aplikatu dugu."}
+{"sentence_good": "Zubira iristen ari ginela, sute bat ikusi genuen.", "sentence_bad": "Zubira iristen ari ginela, sute bat ikusi genuenean."}
+{"sentence_good": "Zerbait jakingo du, halako ziurtasunez mintzatu bada.", "sentence_bad": "Zerbait jakingo du, halako ziurtasunez mintzatu denean."}
+{"sentence_good": "Argia pizten ahalegintzen ari zela, hormaren kontra jo zuen.", "sentence_bad": "Argia pizten ahalegintzen ari zela, hormaren kontra jo zuenean."}
+{"sentence_good": "Zer edo zer nahiko du, hots egin badu.", "sentence_bad": "Zer edo zer nahiko du, hots egin duenean."}
+{"sentence_good": "Dohainen bat izango du, denek harekin hitz egin nahi dute-eta.", "sentence_bad": "Dohainen bat izango du, denek harekin hitz egin nahi dutenean."}
+{"sentence_good": "Hain da handia, ez da atetik sartzen.", "sentence_bad": "Hain da handia, ez dela atetik sartzen."}
+{"sentence_good": "Ez ibili irristailuekin, eroriko zara eta!", "sentence_bad": "Ez ibili irristailuekin, eroriko zarela!"}
+{"sentence_good": "Duela bost urte etorri zen.", "sentence_bad": "Duela bost urte etorri zela."}
+{"sentence_good": "A-8 autobidean, obra-lanak izango dira 10 kilometroan.", "sentence_bad": "A-8 autobidean, obra-lanak izango dira 10 kilometrotan."}
+{"sentence_good": "Nor bere bidetik joan ginen.", "sentence_bad": "Nor geure bidetik joan ginen."}
+{"sentence_good": "Nork bere joeren arabera jokatuko dugu.", "sentence_bad": "Nork geure joeren arabera jokatuko dugu."}
+{"sentence_good": "Txikituta gelditu ziren bazterrak, euri-erauntsiak eta uholdeak zirela medio.", "sentence_bad": "Txikituta gelditu ziren bazterrak, euri-erauntsiak eta uholdeak medio."}
+{"sentence_good": "Baraua dela medio, laster osatuko da.", "sentence_bad": "Baraua medio, laster osatuko da."}
+{"sentence_good": "Lukurreria eta espekulazioa direla medio sartu da mundua ekonomia-atzeraldian.", "sentence_bad": "Lukurreria eta espekulazioa medio sartu da mundua ekonomia-atzeraldian."}
+{"sentence_good": "Lurrak bere ardatzaren inguruan biratzen da.", "sentence_bad": "Lurrak bere ardatzaren inguruan biratzen du."}
+{"sentence_good": "Ordubetean 15° biratzen da Lurra.", "sentence_bad": "Ordubetean 15° biratzen ditu Lurrak."}
+{"sentence_good": "Bilerak ordu luzeak iraun du.", "sentence_bad": "Bilerak ordu luzeak iraun ditu."}
+{"sentence_good": "Zenbat kostatzen da autobus-billetea?", "sentence_bad": "Zenbat kostatzen du autobus-billetea?"}
+{"sentence_good": "Zenbat kostatu zaizu autoa?", "sentence_bad": "Zenbat kostatu dizu autoak?"}
+{"sentence_good": "Ez du merezi liburu hori irakurtzea.", "sentence_bad": "Ez du merezi liburu hori irakurtzeak."}
+{"sentence_good": "Ez du merezi liburu hori irakurtzea.", "sentence_bad": "Ez du pena merezi liburu hori irakurtzea."}
+{"sentence_good": "Merezi du datu horiek guztiak aintzat hartzea.", "sentence_bad": "Merezi du datu horiek guztiak aintzat hartzeak."}
+{"sentence_good": "Merezi du datu horiek guztiak aintzat hartzea.", "sentence_bad": "Pena merezi du datu horiek guztiak aintzat hartzea."}
+{"sentence_good": "Duela hamarka mila milioi urte desagertu ziren dinosauroak Lurretik.", "sentence_bad": "Duela hamarka milaka milioi urte desagertu ziren dinosauroak Lurretik."}
+{"sentence_good": "Gauez ehunka mila milioi izar ikus daitezke zeruan.", "sentence_bad": "Gauez ehunka milaka milioi izar ikus daitezke zeruan."}
+{"sentence_good": "Herri-lan batzuk ehunka milioi euro kostatzen zaizkigu herritarroi.", "sentence_bad": "Herri-lan batzuk ehundaka milioi euro kostatzen zaizkigu herritarroi."}
+{"sentence_good": "Behin kuota finkatu denean, botoak balioga-betu egiten dira.", "sentence_bad": "Behin kuota finkatuta dagoela, botoak baliogabetu egiten dira."}
+{"sentence_good": "Behin taula sortuz gero, 2 zenbakiaren multiploak ezabatuko ditugu.", "sentence_bad": "Behin taula sortu dugula, 2 zenbakiaren multiploak ezabatuko ditugu."}
+{"sentence_good": "Behin zulo beltzen historia pixka bat kontaturik, has gaitezen zulo beltzei buruzko informazio gehiago ematen.", "sentence_bad": "Behin zulo beltzen historia pixka bat kontatu dugula, has gaitezen zulo beltzei buruzko informazio gehiago ematen."}
+{"sentence_good": "Epaiketaren atarian gauden honetan, berriro gogoratzen dut orduan gertatua.", "sentence_bad": "Orain epaiketaren atarian gaudela, berriro gogoratzen dut orduan gertatua."}
+{"sentence_good": "Irakurle inozoa naizen hau, poztu egin nintzen liburua laster argitaratuko zela entzun nuenean.", "sentence_bad": "Ni irakurle inozoa naizela, poztu egin nintzen liburua laster argitaratuko zela entzun nuenean."}
+{"sentence_good": "Haizeteak sua eragin zuen Zalduondon, eta udaletxea erre zen.", "sentence_bad": "Haizeteak sua eragin zuen Zalduondon, udaletxea erre zelarik."}
+{"sentence_good": "Arantzazuko kongresuan finkatu ziren euskara batuaren lehen oinarriak, eta idazle gehienek onartu zituzten.", "sentence_bad": "Arantzazuko kongresuan finkatu ziren euskara batuaren lehen oinarriak, idazle gehienek onartu zituztelarik."}
+{"sentence_good": "2005eko maiatzaren 15a: ehunka pertsona zeramatzan ferry bat hondoratu zen Bangladeshen; 100 pertsonatik gora desagertu ziren.", "sentence_bad": "2005eko maiatzaren 15a: ehunka pertsona zeramatzan ferry bat hondoratu zen Bangladeshen, 100 pertsonatik gora desagertu zirelarik."}
+{"sentence_good": "Erantzunak diferenteak izaten dira; nori galdetzen zaion, jakina.", "sentence_bad": "Erantzunak diferenteak izaten dira; nori galdetzen zaionaren arabera, jakina."}
+{"sentence_good": "Txostena norentzat den, ezberdin egituratu behar izaten da idatzia.", "sentence_bad": "Txostena norentzat denaren arabera, ezberdin egituratu behar izaten da idatzia."}
+{"sentence_good": "Ikasleak ez dira berdin tratatzen: ikaslea nor den izaten da gakoa.", "sentence_bad": "Ikasleak ez dira berdin tratatzen: ikaslea nor denaren arabera izaten da gakoa."}
+{"sentence_good": "Duela lau urte hasi nintzen Institutuan irakasle.", "sentence_bad": "Duela lau urte hasi nintzen Institutuan irakasle bezala."}
+{"sentence_good": "Atzelari gisa famatua izan zen Juan Antonio Fares, Mexikon eta Kuban, 1930eko hamarkadan.", "sentence_bad": "Atzelari bezala famatua izan zen Juan Antonio Fares, Mexikon eta Kuban, 1930eko hamarkadan."}
+{"sentence_good": "\"Mendilatz\" esaten dioten orubean eraikiko dira babes ofizialeko etxeak.", "sentence_bad": "\"Mendilatz\" bezala ezagutzen den orubean eraikiko dira babes ofizialeko etxeak."}
+{"sentence_good": "Beira-zuntza, poliamidak, erretxina eta antzeko materialak erabiltzen hasi zen eskultorea.", "sentence_bad": "Beira-zuntza, poliamida eta erretxina bezalako materialak erabiltzen hasi zen eskultorea."}
+{"sentence_good": "Bonbilla halogenoak goritasun-lanparak halako bi kostatzen dira.", "sentence_bad": "Bonbilla halogenoak goritasun-lanparen halako bi kostatzen dira."}
+{"sentence_good": "Hogeiz biderka dezake erretinak bere tamaina.", "sentence_bad": "Halako hogei handitu dezake erretinak bere tamaina."}
+{"sentence_good": "Hogeiko hamarkadan, antzerkigileek esperimentalismo estetikoaren bidetik jo zuten; hogeita hamarreko hamarkadan, berriz, errealismo sozialista gailendu zen.", "sentence_bad": "Hogeiko hamarkadan, antzerkigileek esperimentalismo estetikoaren bidetik jo zuten bitartean, hogeita hamarreko hamarkadan errealismo sozialista gailendu zen."}
+{"sentence_good": "2025ean, bi langile egongo dira erretirodun bakoitzeko; egun, aldiz, lau langile daude.", "sentence_bad": "2025ean, bi langile egongo dira erretirodun bakoitzeko; egun, lau langile dauden bitartean."}
+{"sentence_good": "Liskarrak gertatzen dira neska-mutilen artean.", "sentence_bad": "Liskarrak ematen dira neska-mutilen artean."}
+{"sentence_good": "Liskarrak izaten dira neska-mutilen artean.", "sentence_bad": "Liskarrak ematen dira neska-mutilen artean."}
+{"sentence_good": "Mendi honetan izan da gudua.", "sentence_bad": "Mendi honetan eman da gudua."}
+{"sentence_good": "Bi berrikuntza teknologiko izan ziren XV. mendean.", "sentence_bad": "Bi berrikuntza teknologiko eman ziren XV. mendean."}
+{"sentence_good": "Baliabide fisikoak gehitu eta hobetzeko egoera egokia dugu gaur egun.", "sentence_bad": "Baliabide fisikoak gehitu eta hobetzeko egoera egokia ematen da gaur egun."}
+{"sentence_good": "Istripu gutxi gertatu ziren atzo A8 autopistan.", "sentence_bad": "Istripu gutxi eman ziren atzo A8 autopistan."}
+{"sentence_good": "Zenbat eta gorago dagoen hodeia, hainbat eta txikiagoa izango da tenperatura hodeiaren goialdean.", "sentence_bad": "Zenbat eta gorago dagoen hodeia, hainbat eta txikiagoa izango da tenperatura hodeiaren goikaldean."}
+{"sentence_good": "Datu horiek bakarrik hartzen badituzu kontuan, emaitza okerra izango duzu.", "sentence_bad": "Datu horiek bakarrik hartuko badituzu kontuan, emaitza okerra izango duzu."}
+{"sentence_good": "Afarian alkohola edaten badut, taxiz itzuliko naiz etxera.", "sentence_bad": "Afarian alkohola edango badut, taxiz itzuliko naiz etxera."}
+{"sentence_good": "David Beckhamek 106.684 € kobratuko du egunean.", "sentence_bad": "David Beckhamek 106.684 € kobratuko du egunagatik."}
+{"sentence_good": "Kilometroko €0,7 €-ko bidesariari oso garestia deritzot.", "sentence_bad": "€0,7 € kilometroko bidesariari oso garestia deritzot."}
+{"sentence_good": "Orduko 50 kilometroko abiaduran zetorren.", "sentence_bad": "50 kilometro orduko abiaduran zetorren."}
+{"sentence_good": "Zer dute komun Eguzkiaren argiak, irratiak eta telebistak?", "sentence_bad": "Zer dute komunean Eguzkiaren argiak, irratiak eta telebistak?"}
+{"sentence_good": "Zer dute komun Eguzkiaren argiak, irratiak eta telebistak?", "sentence_bad": "Zer dute amankomunean Eguzkiaren argiak, irratiak eta telebistak?"}
+{"sentence_good": "Elkarrekin egiten dugun bizitza.", "sentence_bad": "Komunean egiten dugun bizitza."}
+{"sentence_good": "Elkarrekin ditugun adiskideak.", "sentence_bad": "Komunean ditugun adiskideak."}
+{"sentence_good": "Urtemugako festa prestatzen ari zaizkio adiskideak Aneri.", "sentence_bad": "Urtemugako festa prestatzen ari diote adiskideek Aneri."}
+{"sentence_good": "Medikuak sendagaiak ematen ari dira.", "sentence_bad": "Medikuak sendagaiak ematen ari dituzte."}
+{"sentence_good": "Zenbat lagunek diharduzue egitasmoa lantzen?", "sentence_bad": "Zenbat lagun diharduzue egitasmoa lantzen?"}
+{"sentence_good": "Neska gazteak biolina jotzen dihardu.", "sentence_bad": "Neska gaztea biolina jotzen dihardu."}
+{"sentence_good": "Basoan barrena jarraitu genion lapurrari.", "sentence_bad": "Basoan barrena jarraitu genuen lapurra."}
+{"sentence_good": "Zenbaki aljebraiko deritzo ekuazio aljebraiko baten ebazpen den zenbakiari.", "sentence_bad": "Zenbaki aljebraiko deritzaio ekuazio aljebraiko baten ebazpen den zenbakiari."}
+{"sentence_good": "\"Heriotzaren errepidea\" esaten zaion ibilbidean bi lagun hil ziren atzo.", "sentence_bad": "\"Heriotzaren errepidea\" bezala ezagutzen den ibilbidean bi lagun hil ziren atzo."}
+{"sentence_good": "Guztiei esan nien, Aneri izan ezik.", "sentence_bad": "Guztiei esan nien, Aneri ezik."}
+{"sentence_good": "Egunero irekitzen dugu, astelehenetan izan ezik.", "sentence_bad": "Egunero irekitzen dugu, astelehenetan ezik."}
+{"sentence_good": "ESNk izan ezik, gainerako sindikatu guztiek parte hartuko dute bilkuran.", "sentence_bad": "ESNk ezik, gainerako sindikatu guztiek parte hartuko dute bilkuran."}
+{"sentence_good": "Hain da ederra, non ezin diodan begiratzeari utzi.", "sentence_bad": "Hain da ederra, ezin diodala begiratzeari utzi."}
+{"sentence_good": "Hain da ederra, ezin diot begiratzeari utzi.", "sentence_bad": "Hain da ederra, ezin diodala begiratzeari utzi."}
+{"sentence_good": "Hainbeste jaten du, non hamar kilo hartu dituen.", "sentence_bad": "Hainbeste jaten du, hamar kilo hartu dituela."}
+{"sentence_good": "Hainbeste jaten du, hamar kilo hartu ditu.", "sentence_bad": "Hainbeste jaten du, hamar kilo hartu dituela."}
+{"sentence_good": "Arnas pigmentu batzuk, hala nola hemoglobina eta mioglobina, ezinbestekoak dira oxigenoa garraiatzeko mekanismoan.", "sentence_bad": "Arnas pigmentu batzuk, hala nola, hemoglobina eta mioglobina, ezinbestekoak dira oxigenoa garraiatzeko mekanismoan."}
+{"sentence_good": "Hego Ameriketatik ere iritsi zaizkigu mezuak, esaterako, Ekuadorretik euskaldun batek idatzi zigun esker ona adierazteko.", "sentence_bad": "Hego Ameriketatik ere iritsi zaizkigu mezuak, hala nola, Ekuadorretik euskaldun batek idatzi zigun esker ona adierazteko."}
+{"sentence_good": "Ezaugarri konplexuek bariazioa erakusten dute; adibidez, pertsona batzuk besteak baino altuagoak dira, eta batzuek besteek baino buru luzeagoa dute.", "sentence_bad": "Ezaugarri konplexuek bariazioa erakusten dute, hala nola, pertsona batzuk besteak baino altuagoak dira, eta batzuek besteek baino buru luzeagoa dute."}
+{"sentence_good": "Hurrengo EHULKUren aholkua otsailaren 22an jorratuko dugu.", "sentence_bad": "Hurrengo EHULKUren aholkua otsailak 22an jorratuko dugu."}
+{"sentence_good": "Abenduaren 20tik ez dut ikusi.", "sentence_bad": "Abenduak 20tik ez dut ikusi."}
+{"sentence_good": "Ekainaren 5era arte Alemanian egongo naiz.", "sentence_bad": "Ekainak 5era arte Alemanian egongo naiz."}
+{"sentence_good": "Azterketak urtarrilaren 23tik otsailaren 9ra izan dira.", "sentence_bad": "Azterketak urtarrilak 23tik otsailak 9ra izan dira."}
+{"sentence_good": "Maiatzean bukatuko dira eskolak.", "sentence_bad": "Maiatzan bukatuko dira eskolak."}
+{"sentence_good": "Urte horietan gertaturikoa ondo argitzea zaila da guretzat, hobe esateko, ezinezkoa.", "sentence_bad": "Urte horietan gertaturikoa ondo argitzea zaila da guretzat, hobeto esateko, ezinezkoa."}
+{"sentence_good": "Badago tarteko fase bat, edo, hobeki esan, konposatu bat, espinela izenekoa, MgAl2O4 formula kimikoa duena.", "sentence_bad": "Badago tarteko fase bat, edo, hobe esan, konposatu bat, espinela izenekoa, MgAl2O4 formula kimikoa duena."}
+{"sentence_good": "Landa-eskolak, edo, hobeto esanda, landa-eremuko eskolak baditu beste desabantaila asko.", "sentence_bad": "Landa-eskolak, edo, hobe esanda, landa-eremuko eskolak baditu beste desabantaila asko."}
+{"sentence_good": "Hau hobeto esanda dago.", "sentence_bad": "Hau hobe esanda dago."}
+{"sentence_good": "Honezkero hasiko zen saioa.", "sentence_bad": "Dagoeneko hasiko zen saioa."}
+{"sentence_good": "Nolatan ari zara zu dagoeneko lanean?", "sentence_bad": "Nolatan ari zara zu honezkero lanean?"}
+{"sentence_good": "Bi urte igaro eta gero, telefonoz hots egin zion.", "sentence_bad": "Bi urte eta gero, telefonoz hots egin zion."}
+{"sentence_good": "Ekaitza igaro eta gero, barealdia izaten da.", "sentence_bad": "Ekaitza eta gero, barealdia izaten da."}
+{"sentence_good": "Hurbil duzu parkea: zubia pasatu eta gero.", "sentence_bad": "Hurbil duzu parkea: zubia eta gero."}
+{"sentence_good": "Emanaldi berezia egin zuten eta entzule gazteak erakarri zituzten.", "sentence_bad": "Emanaldi berezia egin zuten eta entzulego gaztea erakarri zuten."}
+{"sentence_good": "Azken eleberriak harrera ezin hobea izan du irakurleen aldetik.", "sentence_bad": "Azken eleberriak harrera ezin hobea izan du irakurlegoaren aldetik."}
+{"sentence_good": "Biztanle kopuru handia du Alemaniak: 82.310.000 bizilagun.", "sentence_bad": "Biztanlego handia du Alemaniak: 82.310.000 bizilagun."}
+{"sentence_good": "Bihar ere argituko du eguna.", "sentence_bad": "Bihar ere argituko du egunak."}
+{"sentence_good": "Haizea dabil.", "sentence_bad": "Haizea dago."}
+{"sentence_good": "Nekez aseko du argiak landare oso bat.", "sentence_bad": "Nekez asetuko du argiak landare oso bat."}
+{"sentence_good": "Errotak 1970era arte eho zuen alea etenik gabe.", "sentence_bad": "Errotak 1970era arte ehotu zuen alea etenik gabe."}
+{"sentence_good": "Great Smoky mendietako gune jakin batean, zuhaitz hosto iraunkor askori eraso die pinu-kakalardoak.", "sentence_bad": "Great Smoky mendietako gune jakin batean, zuhaitz hosto iraunkor askori erasotu die pinu-kakalardoak."}
+{"sentence_good": "Telebista kateen % 25 euskaraz zen orduan.", "sentence_bad": "Telebista kateen % 25a euskaraz zen orduan."}
+{"sentence_good": "Langileen % 10ek istripuren bat izan du inoiz.", "sentence_bad": "Langileen % 10ak istripuren bat izan du inoiz."}
+{"sentence_good": "Hiritarren % 51,75ek aldeko jarrera du.", "sentence_bad": "Hiritarren % 51,75ek aldeko jarrera dute."}
+{"sentence_good": "Botoen % 48 lortu du hautagaiak.", "sentence_bad": "% 48 boto lortu du hautagaiak."}
+{"sentence_good": "Zer ehuneko aldatuko da masa-fluxua?", "sentence_bad": "Zer ehunekotan aldatuko da masa-fluxua?"}
+{"sentence_good": "Kalkulatu ehuneko zenbat txikitzen den bero-transferentzia.", "sentence_bad": "Kalkulatu ehuneko zenbatean txikitzen den bero-transferentzia."}
+{"sentence_good": "Gure alderdiak aspaldi plazaratu zuen bere iritzia gai horri buruz.", "sentence_bad": "Gure alderdiak aspaldi plazaratu zuen bere iritzia gai horrekiko."}
+{"sentence_good": "Espazio itxiei dien beldurra.", "sentence_bad": "Espazio itxiekiko beldurra."}
+{"sentence_good": "Elkarrenganako konfiantza.", "sentence_bad": "Elkarrekiko konfiantza."}
+{"sentence_good": "Oineko hatz bat apurtua jokatu zuen.", "sentence_bad": "Oineko hatz batekin apurtuta jokatu zuen."}
+{"sentence_good": "Maleta bat eskuan etorri zen.", "sentence_bad": "Maleta batekin eskuan etorri zen."}
+{"sentence_good": "Partikulek elkarri eragiten diote.", "sentence_bad": "Partikulek elkar eragiten diote."}
+{"sentence_good": "Elkar ezagutzen dute.", "sentence_bad": "Elkar ezagutzen dira."}
+{"sentence_good": "Ikasleak ere badatoz Euskaltzain berriaren sarrera-ekitaldira.", "sentence_bad": "Ikasleak ere datoz Euskaltzain berriaren sarrera-ekitaldira."}
+{"sentence_good": "Labana-ukaldika borrokatu ziren.", "sentence_bad": "Labana-ukaldika borrokatu zuten."}
+{"sentence_good": "Denbora guztian berarekin dantzatu nintzen.", "sentence_bad": "Denbora guztian berarekin dantzatu nuen."}
+{"sentence_good": "Ezin naiz joan.", "sentence_bad": "Ezin dut joan."}
+{"sentence_good": "Joaten ahal naiz.", "sentence_bad": "Joaten ahal dut."}
+{"sentence_good": "Luis Mariano aurkeztu nion eta harrezkero Canarok ez du beste inor entzun nahi.", "sentence_bad": "Luis Mariano aurkeztu nion eta harrez gero Canarok ez du beste inor entzun nahi."}
+{"sentence_good": "Batak A esanez gero, bestea obligatua sentitzen da B esatera.", "sentence_bad": "Batak A esan ezkero, bestea obligatua sentitzen da B esatera."}
+{"sentence_good": "Filmazioa bukatuz gero, aktoreak estudioan giltzapetuta egon ziren egun askoan.", "sentence_bad": "Filmazioa bukatuez gero, aktoreak estudioan giltzapetuta egon ziren egun askoan."}
+{"sentence_good": "Gainera, hain patio handia dugunez gero, uste dut primeran moldatuko garela.", "sentence_bad": "Gainera, hain patio handia dugun ezkero, uste dut primeran moldatuko garela."}
+{"sentence_good": "Gabonetako oporrak bukatu direnez geroztik, asko hitz egin du ikasleekin gertatutakoaz.", "sentence_bad": "Gabonetako oporrak bukatu diren ezkeroztik, asko hitz egin du ikasleekin gertatutakoaz."}
+{"sentence_good": "Niri dagokidanez, egon zaitez lasai: nola edo hala konponduko naiz.", "sentence_bad": "Niri dagokidanean, egon zaitez lasai: nola edo hala konponduko naiz."}
+{"sentence_good": "Urte-bitarte berean, tuberkulosiz hiltzeko arriskuari dagokionez, 2,7tik 5,8 ingurura hobetu da segurtasun-indizea.", "sentence_bad": "Urte-bitarte berean, tuberkulosiz hiltzeko arriskuari dagokionean, 2,7tik 5,8 ingurura hobetu da segurtasun-indizea."}
+{"sentence_good": "Lehen politikak agintzen zuen; orain, merkatuak agintzen du.", "sentence_bad": "Lehen politikak agintzen bazuen, orain, merkatuak agintzen du."}
+{"sentence_good": "Gasteizko biztanle-kopuruak gora egin du; Donostiakoak, behera egin du.", "sentence_bad": "Gasteizko biztanle-kopuruak gora egin badu, Donostiakoak, behera egin du."}
+{"sentence_good": "Pertsona baten gorputzak bost bat litro odol dauzka batez beste.", "sentence_bad": "Pertsona baten gorputzak bost bat litro odol dauzka bataz beste."}
+{"sentence_good": "Glaziarren batez besteko luzera 1800 inguruan hasi zen urritzen.", "sentence_bad": "Glaziarren batazbesteko luzera 1800 inguruan hasi zen urritzen."}
+{"sentence_good": "Berokuntza artifizialik ez zen garaietan, 21 °C inguruko batez besteko tenperatura zuten eskualdeetan sortu ziren lehenengo zibilizazioak.", "sentence_bad": "Berokuntza artifizialik ez zen garaietan, 21 °C inguruko batazbesteko tenperatura zuten eskualdeetan sortu ziren lehenengo zibilizazioak."}
+{"sentence_good": "Berokuntza artifizialik ez zen garaietan, 21 °C inguruko batez besteko tenperatura zuten eskualdeetan sortu ziren lehenengo zibilizazioak.", "sentence_bad": "Berokuntza artifizialik ez zen garaietan, 21 °C inguruko batezbesteko tenperatura zuten eskualdeetan sortu ziren lehenengo zibilizazioak."}
+{"sentence_good": "Neskatila bera etorri zen atzo eta lehengo astean.", "sentence_bad": "Neskatila berdina etorri zen atzo eta lehengo astean."}
+{"sentence_good": "Urte berean ehortzi zituen senarra eta alaba.", "sentence_bad": "Urte berdinean ehortzi zituen senarra eta alaba."}
+{"sentence_good": "Inguruka ibili ziren, galduta, beti leku berera bihurtzen zirela.", "sentence_bad": "Inguruka ibili ziren, galduta, beti leku berdinera bihurtzen zirela."}
+{"sentence_good": "Istripua izan da berriro A8 autobidean.", "sentence_bad": "Istripu berri bat izan da A8 autobidean."}
+{"sentence_good": "Planeta berri bat aurkitu dute Eguzki Sistematik harago.", "sentence_bad": "Beste planeta bat aurkitu dute Eguzki Sistematik harago."}
+{"sentence_good": "Beste gol bat egin diote atezainari.", "sentence_bad": "Gol berri bat egin diote atezainari."}
+{"sentence_good": "Ane laster etorriko den berria zabaldu da.", "sentence_bad": "Ane laster etorriko delaren berria zabaldu da."}
+{"sentence_good": "Ane laster etorriko den berria zabaldu da.", "sentence_bad": "Ane laster etorriko denaren berria zabaldu da."}
+{"sentence_good": "Zu besterik ez daukat buruan.", "sentence_bad": "Zu besterik ez zauzkat buruan."}
+{"sentence_good": "Zu besterik ez zegoen han.", "sentence_bad": "Zu besterik ez zeunden han."}
+{"sentence_good": "Nire begiek zu besterik ez dute ikusten.", "sentence_bad": "Nire begiek zu besterik ez zaituzte ikusten."}
+{"sentence_good": "Konstante hori 2,5ez biderkatu behar duzu.", "sentence_bad": "Konstante hori 2,5engatik biderkatu behar duzu."}
+{"sentence_good": "Jarduera-faktore batez biderkatu dute metabolismo basala.", "sentence_bad": "Jarduera-faktore batengatik biderkatu dute metabolismo basala."}
+{"sentence_good": "Deabruak harriak ogi bihurtu zituen.", "sentence_bad": "Deabruak harriak ogian bihurtu zituen."}
+{"sentence_good": "Apaindurak itsusia eder bihurtzen du.", "sentence_bad": "Apaindurak itsusia ederrean bihurtzen du."}
+{"sentence_good": "Erresistentziak erasoaldi ugari egin ditu.", "sentence_bad": "Erresistentziak erasoaldi ugari burutu ditu."}
+{"sentence_good": "Zenbait enpresaren jarduera eten dute.", "sentence_bad": "Zenbait enpresen jarduera eten dute."}
+{"sentence_good": "Zenbait pertsonaren ustea da hori.", "sentence_bad": "Zenbait pertsonen ustea da hori."}
+{"sentence_good": "Eragin handia izan zuen haren pinturak gerraosteko hainbat poetarengan.", "sentence_bad": "Eragin handia izan zuen haren pinturak gerraosteko hainbat poetengan."}
+{"sentence_good": "Zenbait atletak lehiatzeari utziko diote Olinpiar Jokoak igarotakoan.", "sentence_bad": "Zenbait atletek lehiatzeari utziko diote Olinpiar Jokoak igarotakoan."}
+{"sentence_good": "Hainbat erakusketaren berri emango dizuegu orain.", "sentence_bad": "Hainbat erakusketen berri emango dizuegu orain."}
+{"sentence_good": "Produktu hori ez duzu edozein janari-dendatan salgai.", "sentence_bad": "Produktu hori ez duzu edozein janari-dendetan salgai."}
+{"sentence_good": "Zelulaz osatuak dira gorputzeko ehunak.", "sentence_bad": "Zelulez osatuak dira gorputzeko ehunak."}
+{"sentence_good": "Aspaldiko ohitura da Hungariatik ijitoak etortzea.", "sentence_bad": "Aspaldiko ohitura da Hungariatik ijitoak etortzearena."}
+{"sentence_good": "Gazteen edateko ereduaren ezaugarri berria garagardoa edatea da.", "sentence_bad": "Gazteen edateko ereduaren ezaugarri berria garagardoa edatearena da."}
+{"sentence_good": "Hanka egiteko aholkatu dit adiskideak.", "sentence_bad": "Hanka egitea aholkatu dit adiskideak."}
+{"sentence_good": "Ibiltzeko aholkatu zion sendagileak.", "sentence_bad": "Ibiltzea aholkatu zion sendagileak."}
+{"sentence_good": "Administrazioaren egintza guztiak Administrazio Zuzenbidearen mende daude eta, ondorioz, epaitegien kontrola jasan dezakete. Hala ere, badira historikoki funtsezko arau horren mende jarri ez diren egintza batzuk.", "sentence_bad": "Administrazioaren egintza guztiak Administrazio Zuzenbidearen mende daude eta, ondorioz, epaitegien kontrola jasan dezakete. Aitzitik, badira historikoki funtsezko arau horren mende jarri ez diren egintza batzuk."}
+{"sentence_good": "Zutaz eta Mikelez hitz egin zuten.", "sentence_bad": "Zu eta Mikelez hitz egin zuten."}
+{"sentence_good": "Guri eta haiei heldu zaigu gutuna.", "sentence_bad": "Gu eta haiei heldu zaigu gutuna."}
+{"sentence_good": "Zenbait irakasleri eta ikasle guztiei heldu zaie gutuna.", "sentence_bad": "Zenbait irakasle eta ikasle guztiei heldu zaie gutuna."}
+{"sentence_good": "Karidadeko Bentak Euskal Herri osoa korritu du agurreko biran, eta arrakasta handia lortu du.", "sentence_bad": "Karidadeko Bentak Euskal Herri osoa korritu du agurreko biran, arrakasta handia lortuz."}
+{"sentence_good": "Asteazkenean eguraldiak okerrera egingo du, eta orduek aurrera egin ahala hodeiak ugaritu egingo dira.", "sentence_bad": "Asteazkenean eguraldiak okerrera egingo du, orduek aurrera egin ahala hodeiak ugarituz."}
+{"sentence_good": "Erreskate taldeak aurkitutakoan, mendigoizaleak esan du galduta ibili den bitartean ez dela beldur izan.", "sentence_bad": "Erreskate taldeak aurkitutakoan, mendigoizaleak baieztatu du galduta ibili den bitartean ez dela beldur izan."}
+{"sentence_good": "Gasolio litroa bi zentimo merkatu du Repsolek.", "sentence_bad": "Gasolio litroa bi zentimoan merkatu du Repsolek."}
+{"sentence_good": "Euskaldunen % 50 ados daude referenduma egitearekin.", "sentence_bad": "Euskaldunen % 50a ados daude referenduma egitearekin."}
+{"sentence_good": "Asafa Powellek munduko marka du 100 metrokoan.", "sentence_bad": "Asafa Powellek munduko marka du 100 metroetan."}
+{"sentence_good": "Asafa Powellek munduko marka du 100 metroko lasterketan.", "sentence_bad": "Asafa Powellek munduko marka du 100 metroetan."}
+{"sentence_good": "Hasi baino ez da egin sagardotegi denboraldia, eta dagoeneko jende askok jo du Astigarraga aldera.", "sentence_bad": "Hasi baino ez da egin sagardotegi denboraldia, eta dagoeneko jende asko dira jo dutenak Astigarraga aldera."}
+{"sentence_good": "Belengo Jaiotzaren basilikan 200 palestinarrek hartu dute babesa. Horien artean, badira emakumeak eta haurrak.", "sentence_bad": "Belengo Jaiotzaren basilikan 200 palestinarrek hartu dute babesa. Hauen artean, badira emakumeak eta haurrak."}
+{"sentence_good": "Peugeoteko gidaria arin zaurituta atera dute suhiltzaileek, hiru ordu lanean aritu eta gero. Hori dela eta, Malmasin ia goiz osoan egon da itxita Donostiako norabidean.", "sentence_bad": "Peugeoteko gidaria arin zaurituta atera dute suhiltzaileek, hiru ordu lanean aritu eta gero. Hau dela eta, Malmasin ia goiz osoan egon da itxita Donostiako norabidean."}
+{"sentence_good": "Giltza elektronikoaz gainera, beste proiektu batzuk ditu esku artean.", "sentence_bad": "Giltza elektronikoaz gainera, beste proiektu gehiago ditu esku artean."}
+{"sentence_good": "Giltza elektronikoaz gainera, proiektu gehiago ditu esku artean.", "sentence_bad": "Giltza elektronikoaz gainera, beste proiektu gehiago ditu esku artean."}
+{"sentence_good": "Arratsaldean beste bilera bat egingo dute, azken xehetasunak adosteko.", "sentence_bad": "Arratsaldean bilera berri bat egingo dute, azken xehetasunak adosteko."}
+{"sentence_good": "Nanterreko udal bilkura amaitutakoan, gizon bat tiroka hasi da, eta zortzi lagun zauritu ditu.", "sentence_bad": "Nanterreko udal bilkura amaitutakoan, gizon bat tiroka hasi da, zortzi lagun zaurituz."}
+{"sentence_good": "Nanterreko udal bilkura amaitutakoan, gizon bat tiroka hasi, eta zortzi lagun zauritu ditu.", "sentence_bad": "Nanterreko udal bilkura amaitutakoan, gizon bat tiroka hasi da, zortzi lagun zaurituz."}
+{"sentence_good": "Trafikoari dagokionez, Donostiara sartzeko ilara luzeak eratu dira goizean.", "sentence_bad": "Trafikoari dagokionean, Donostiara sartzeko ilara luzeak eratu dira goizean."}
+{"sentence_good": "Trafikoari dagokiola, Donostiara sartzeko ilara luzeak eratu dira goizean.", "sentence_bad": "Trafikoari dagokionean, Donostiara sartzeko ilara luzeak eratu dira goizean."}
+{"sentence_good": "Zuri-gorriek zazpigarren minutuan sartu zuten lehen gola, eta partidan lau gol egin zituzten guztira.", "sentence_bad": "Zuri-gorriek zazpigarren minutuan sartu zuten lehen gola, eta partidan lau gol egiteko guztira."}
+{"sentence_good": "Zirriborroak egiterakoan sentitzen den plazera deskribaezina da.", "sentence_bad": "Zirriborroak egiterakoan plazera deskribaezina da."}
+{"sentence_good": "Zirriborroak egiterakoan sentitzen duen plazera deskribaezina da.", "sentence_bad": "Zirriborroak egiterakoan plazera deskribaezina da."}
+{"sentence_good": "Kolpe bat eman zion, eta hil.", "sentence_bad": "Kolpe bat eman zion, hilda utziz."}
+{"sentence_good": "Bazen gizon handi-handi bat han. Gizon horrek hitz egin zuen.", "sentence_bad": "Bazen gizon handi-handi bat han. Gizon honek hitz egin zuen."}
+{"sentence_good": "Konforme nago, baina horrek ez du esan nahi guztiz ados nagoenik.", "sentence_bad": "Konforme nago, baina honek ez du esan nahi guztiz ados nagoenik."}
+{"sentence_good": "Kirola neurrian eginez gero, osasunak eskertuko dizu.", "sentence_bad": "Kirola bere neurrian eginez gero, osasunak eskertuko dizu."}
+{"sentence_good": "Poligono erregular batek alde eta angelu guztiak berdinak ditu.", "sentence_bad": "Poligono erregular batek bere alde eta angelu guztiak berdinak ditu."}
+{"sentence_good": "Ignazio du izena.", "sentence_bad": "Ignazio da bere izena."}
+{"sentence_good": "Gure lorategietan, txantxangorria, zozoa eta antzeko txoriak ibiltzen dira.", "sentence_bad": "Gure lorategietan, txantxangorria eta zozoa bezalako txoriak ibiltzen dira."}
+{"sentence_good": "Gure lorategietan, txantxangorria, zozoa eta halako txoriak ibiltzen dira.", "sentence_bad": "Gure lorategietan, txantxangorria eta zozoa bezalako txoriak ibiltzen dira."}
+{"sentence_good": "Gizonezkoentzat hartzen dira.", "sentence_bad": "Gizonezkoenak bezala hartzen dira."}
+{"sentence_good": "Antolatzaile gisa da ona.", "sentence_bad": "Antolatzaile bezala da ona."}
+{"sentence_good": "Antolatzaile modura da ona.", "sentence_bad": "Antolatzaile bezala da ona."}
+{"sentence_good": "Sara izenez bataiatu zuten.", "sentence_bad": "Sara bezala bataiatu zuten."}
+{"sentence_good": "Nagusitzat daukate.", "sentence_bad": "Nagusi bezala dute."}
+{"sentence_good": "Aurrelari jardun du.", "sentence_bad": "Aurrelari bezala jardun du."}
+{"sentence_good": "Soldadu joan zen.", "sentence_bad": "Soldadu bezala joan zen."}
+{"sentence_good": "Aurkezten diren hautagaiek eskubidea izango dute botoa emateko.", "sentence_bad": "Aurkez litezkeen hautagaiek eskubidea izango dute botoa emateko."}
+{"sentence_good": "Ekarriko didazu liburua?", "sentence_bad": "Ekar diezadakezu liburua?"}
+{"sentence_good": "Ekarriko zenidake liburua?", "sentence_bad": "Ekar diezadakezu liburua?"}
+{"sentence_good": "Mesede bat egingo didazu?", "sentence_bad": "Egin diezadakezu mesede bat?"}
+{"sentence_good": "Mesede bat egingo zenidake?", "sentence_bad": "Egin zeniezadake mesede bat?"}
+{"sentence_good": "Mesede bat egingo bazenit, eskertuko nizuke.", "sentence_bad": "Mesede bat egingo bazenit, eskertuko dizut."}
+{"sentence_good": "Mesede bat egiten badidazu, eskertuko dizut.", "sentence_bad": "Mesede bat egingo bazenit, eskertuko dizut."}
+{"sentence_good": "Astirik baduzu, kontatuko dizut.", "sentence_bad": "Astirik bazenu, kontatuko dizut."}
+{"sentence_good": "Berandu badator, aukera galduko du.", "sentence_bad": "Berandu baletor, aukera galduko du."}
+{"sentence_good": "Berandu iritsiz gero, aukera galduko duzu.", "sentence_bad": "Berandu iritsiko bazina, aukera galduko duzu."}
+{"sentence_good": "Goiz iritsiko balitz, ikusiko luke.", "sentence_bad": "Goiz iritsiko balitz, ikusiko du."}
+{"sentence_good": "Goiz iristen bada, ikusiko du.", "sentence_bad": "Goiz iritsiko balitz, ikusiko du."}
+{"sentence_good": "Hurrengo urtean elkarte bat sortu, eta, laster, lehendakari-kargura iritsi zen. Hurrengo urtean dimititu zuen.", "sentence_bad": "Hurrengo urtean elkarte bat sortu, eta, laster, lehendakari-kargura iristen da. Hurrengo urtean dimititu zuen."}
+{"sentence_good": "Iaz sortu zen elkartea.", "sentence_bad": "Iaz sortzen da elkartea."}
+{"sentence_good": "1964an sortu zen.", "sentence_bad": "1964an sortzen da elkartea."}
+{"sentence_good": "1964 sortua da elkartea.", "sentence_bad": "1964an sortzen da elkartea."}
+{"sentence_good": "1955ean jaio zen.", "sentence_bad": "1955ean jaiotzen da."}
+{"sentence_good": "1955ean jaioa da.", "sentence_bad": "1955ean jaiotzen da."}
+{"sentence_good": "Irekiko didazu?", "sentence_bad": "Ireki diezadakezu?"}
+{"sentence_good": "Irekiko didazu?", "sentence_bad": "Irekitzen didazu?"}
+{"sentence_good": "Hori egingo dugu, konforme?", "sentence_bad": "Hori egiten dugu, konforme?"}
+{"sentence_good": "Zer egingo dugu orain, andereño?", "sentence_bad": "Zer egiten dugu orain, andereño?"}
+{"sentence_good": "Joango gara?", "sentence_bad": "Joaten gara?"}
+{"sentence_good": "Ane jo du.", "sentence_bad": "Aneri jo dio."}
+{"sentence_good": "Gertatu diren suizidioak aztertu behar ditugu.", "sentence_bad": "Eman diren suizidioak aztertu behar ditugu."}
+{"sentence_good": "Tximinoa trebetasun harrigarriz ibiltzen da zuhaitz batetik bestera jauzika.", "sentence_bad": "Tximinoa trebetasun harrigarriaz ibiltzen da zuhaitz batetik bestera jauzika."}
+{"sentence_good": "Behin bazen amona bat herri txiki-txiki batean bizi zena, basoz eta ur hotz garbiko errekatxo batez inguraturik.", "sentence_bad": "Behin bazen amona bat herri txiki-txiki batean bizi zena, basoez eta ur hotz garbiko errekatxo batez inguraturik."}
+{"sentence_good": "Pixkanaka gela guztiak arbel elektronikoz hornitzen joateko aukera dago.", "sentence_bad": "Pixkanaka gela guztiak arbel elektronikoez hornitzen joateko aukera dago."}
+{"sentence_good": "Hanka-arrasto berriz beterik dago bide guztia.", "sentence_bad": "Hanka-arrasto berriez beterik dago bide guztia."}
+{"sentence_good": "Jauregiak harri txikiz inguratuta daude.", "sentence_bad": "Jauregiak harri txikiez inguratuta daude."}
+{"sentence_good": "Maitasun handiagoa zion.", "sentence_bad": "Maitasun gehiago zion."}
+{"sentence_good": "Pazientzia handia du.", "sentence_bad": "Pazientzia asko du."}
+{"sentence_good": "Indar handia du.", "sentence_bad": "Indar asko du."}
+{"sentence_good": "Lotsa handia pasatu genuen.", "sentence_bad": "Lotsa asko pasatu genuen."}
+{"sentence_good": "Lotsa ederra pasatu genuen.", "sentence_bad": "Lotsa asko pasatu genuen."}
+{"sentence_good": "Lotsa gorria pasatu genuen.", "sentence_bad": "Lotsa asko pasatu genuen."}
+{"sentence_good": "Lotsa galanta pasatu genuen.", "sentence_bad": "Lotsa asko pasatu genuen."}
+{"sentence_good": "Ez zuen kezka handirik horretaz.", "sentence_bad": "Ez zuen kezka gehiegirik horretaz."}
+{"sentence_good": "Ez dut gogo handirik.", "sentence_bad": "Ez dut gogo gehiegi."}
+{"sentence_good": "Ez dut gogo askorik.", "sentence_bad": "Ez dut gogo gehiegi."}
+{"sentence_good": "22 naziotako haurrak daude.", "sentence_bad": "22 nazio desberdinetako haurrak daude."}
+{"sentence_good": "Nukleido deritze naturan dauden edo artifizialki ekoitz daitezkeen nukleo atomikoei.", "sentence_bad": "Nukleido deritze naturan dauden edo artifizialki ekoitz daitezkeen nukleo atomiko desberdinei."}
+{"sentence_good": "Nukleido deritzo naturan dagoen edo artifizialki ekoitz daitekeen nukleo atomiko bakoitzari.", "sentence_bad": "Nukleido deritzo naturan dagoen edo artifizialki ekoitz daitezkeen nukleo atomiko desberdinei."}
+{"sentence_good": "Talde bakoitzak erantzun ezberdina emango du.", "sentence_bad": "Talde ezberdinek erantzun ezberdinak emango dituzte."}
+{"sentence_good": "Neurketak errepikatzea komeni da erroreak murrizteko. Eta horretarako tresna bat baino gehiago erabiltzen badira hobeto.", "sentence_bad": "Neurketak errepikatzea komeni da erroreak murrizteko. Eta horretarako tresna desberdinak erabiltzen badira hobeto."}
+{"sentence_good": "Sarea zabaltzean, denetariko gauzak libratuko dira sarepetik: animaliak eta landareak, batez ere.", "sentence_bad": "Sarea zabaltzean, gauza ezberdinak libratuko dira sarepetik: animaliak eta landareak, batez ere."}
+{"sentence_good": "Eta era askotako animaliak irtengo dira sarepetik.", "sentence_bad": "Eta era desberdineko animaliak irtengo dira sarepetik."}
+{"sentence_good": "Euskaraz bizitzeko hainbat irtenbide eskaintzen dizkizu.", "sentence_bad": "Euskaraz bizitzeko irtenbide ezberdinak eskaintzen dizkizu."}
+{"sentence_good": "Komunikabide batzuetan agertu da hori.", "sentence_bad": "Komunikabide ezberdinetan agertu da hori."}
+{"sentence_good": "Saguari klik eginda, beste ariketa bat aterako zaizu.", "sentence_bad": "Saguari klik eginda, ariketa berria aterako zaizu."}
+{"sentence_good": "Beste tanto bat egin dute.", "sentence_bad": "Tanto berri bat egin dute."}
+{"sentence_good": "Beste korner bat Realarentzat.", "sentence_bad": "Korner berri bat Realarentzat."}
+{"sentence_good": "Beste kolpe bat eman zion.", "sentence_bad": "Kolpe berri bat eman zion."}
+{"sentence_good": "Ipotx bihurtu zen.", "sentence_bad": "Ipotx bat bihurtu zen."}
+{"sentence_good": "Ipotx bihurtu zen.", "sentence_bad": "Ipotxa bihurtu zen."}
+{"sentence_good": "A zer-nolako zarata atera duzuen!", "sentence_bad": "Zarata bat atera duzue!"}
+{"sentence_good": "Egundoko beldurra izan nuen!", "sentence_bad": "Beldur bat izan nuen!"}
+{"sentence_good": "Ezagutzen ditut mutil batzuk, baserri batean bizi direnak.", "sentence_bad": "Ezagutzen ditut mutil batzuk, baserri batean bizi direla."}
+{"sentence_good": "Niri behintzat ez didazu adarrik joko!", "sentence_bad": "Niri behintzat ez didazu ilerik hartuko!"}
+{"sentence_good": "Mianmarko junta militarra, beharrak bultzatuta neurri batean eta nazioarteko kritikek bultzatuta agian, giza laguntzari bidea irekitzen ari da .", "sentence_bad": "Mianmarko junta militarra, beharrak bultzatuta neurri batean eta nazioarteko kritikek bultzatuta agian, giza laguntzari bide irekitzen ari da ."}
+{"sentence_good": "Lurralde osora zabalduko da, baina Euskal Herriko mendebaldea harrapatuko du gehienbat.", "sentence_bad": "Lurralde osora zabalduko bada ere, Euskal Herriko mendebaldea harrapatuko du gehienbat."}
+{"sentence_good": "PAIS egunkariak ere Maria San Gil-ekin zabaldu du eta dio honek Rajoiri egin dion itsusikeriak bitan banatu duela alderdia.", "sentence_bad": "PAIS egunkariak ere Maria San Gil-ekin zabaldu du eta dio honek Rajoiri egin dion itsusikeriak bitan zabaldu duela alderdia."}
+{"sentence_good": "Konpromisoak eta autogobernu handiagoa, egoera ekonomikoari aurre egiteko.", "sentence_bad": "Konpromisoak eta autogobernu gehiago, egoera ekonomikoari aurre egiteko."}
+{"sentence_good": "The New York Timesek Myanmar-ko NARGIS zikloiaren ondoriak aipatzen ditu: agintaritza militarrak galduta daudenena? Nazio Batuen Erakundeak, berriz, seguruenik hildakoak 62 mila eta ehun mila artean izan daitezkeela dio.", "sentence_bad": "The New York Timesek Myanmar-ko NARGIS zikloiaren ondoriak aipatzen ditu: agintaritza militarrak galduta daudenena? Nazio Batuen Erakundeak, berriz, seguruenik hildakoak 62 mila eta ehun mila artean izan daitezkeela dioen bitartean."}
+{"sentence_good": "Auzitegi Nazionalean, CASA DEL CAMPO-ko egoitza berezian: zazpigarren saioa izan du Amnistiaren Aldeko Mugimenduaren epaiketak: gogoratu 27 auziperatu daudela eta bakoitzarentzat 10 urteko gartzela zigorra eskatzen duela fiskaltzak, ETA-ko partaidea izatea leporatuta.", "sentence_bad": "Auzitegi Nazionalean, CASA DEL CAMPO-ko egoitza berezian: zazpigarren saioa izan du Amnistiaren Aldeko Mugimenduaren epaiketak: gogoratu 27 auziperatu daudela eta bakoitzarentzat 10 urteko gartzela zigorra eskatzen duela fiskaltzak, ETA-n integrazioa leporatuta."}
+{"sentence_good": "Auzitegi Nazionalean, CASA DEL CAMPO-ko egoitza berezian: zazpigarren saioa izan du Amnistiaren Aldeko Mugimenduaren epaiketak: gogoratu 27 auziperatu daudela eta bakoitzarentzat 10 urteko gartzela zigorra eskatzen duela fiskaltzak, ETA-ko partaidea izatea leporatuta.", "sentence_bad": "Auzitegi Nazionalean, CASA DEL CAMPO-ko egoitza berezian: zazpigarren saioa izan du Amnistiaren Aldeko Mugimenduaren epaiketak: gogoratu 27 auziperatu daudela eta bakoitzarentzat 10 urteko gartzela zigorra eskatzen duelarik fiskaltzak, ETA-ko partaidea izatea leporatuta."}
+{"sentence_good": "Legebiltzarreko talde parlamentario guztiek gardentasun handiagoa eskatu diete Bidarte eta Azkarateri, eta auditoriak kanpo txostena amaitzean gogotik aztertuko dutela iragarri dute.", "sentence_bad": "Legebiltzarreko talde parlamentari guztiek gardentasun handiagoa eskatu diete Bidarte eta Azkarateri, eta auditoriak kanpo txostena amaitzean gogotik aztertuko dutela iragarri dute."}
+{"sentence_good": "Legebiltzarreko parlmentu-talde guztiek gardentasun handiagoa eskatu diete Bidarte eta Azkarateri, eta auditoriak kanpo txostena amaitzean gogotik aztertuko dutela iragarri dute.", "sentence_bad": "Legebiltzarreko talde parlamentari guztiek gardentasun handiagoa eskatu diete Bidarte eta Azkarateri, eta auditoriak kanpo txostena amaitzean gogotik aztertuko dutela iragarri dute."}
+{"sentence_good": "Hernanin goizaldera bi bonba barianteko lanetan ari diren hondeamakinen aurka: Amonal. ETA-k bere gain hartu ditu. Hondeamakinak, AMENABAR enpresarenak, AHT-n ari ziren.", "sentence_bad": "Hernanin goizaldera bi bonba barianteko lanetan ari diren hondeamakinen aurka: Amonal. ETA-k bere gain hartu ditu. Hondeamakinak, AMENABAR enpresarenak, AHT-n ari direlarik."}
+{"sentence_good": "Txinako hondamendia da albiste nagusi egunkari dijital gehienetan: EL PAIS argazkiekin: Txinak emandako datuen arabera, 8.500era igo da lurrikarak eragindako hilen kopurua.", "sentence_bad": "Txinako hondamendia da albiste nagusi egunkari dijital gehienetan: EL PAIS argazkiekin: Txinak emandako datuen arabera, 8.500era igo du lurrikarak eragindako hilen kopurua."}
+{"sentence_good": "Euskadiko Partidu Popular osoa dago San Gil-ekin? Edo jarraitzailerik izango luke orain ponentzian nagusi litzatekeen beste joerak, hau da, alderdi nazionalistekiko harremanak berdifinitzearen aldeko joera horrek, Euskadin?", "sentence_bad": "Euskadiko Partidu Popular osoa dago San Gil-ekin? Edo jarraitzailerik izango lituzke orain ponentzian nagusi litzatekeen beste joerak, hau da, alderdi nazionalistekiko harremanak berdifinitzearen aldeko joera horrek, Euskadin?"}
+{"sentence_good": "Bestalde, Cercle Artistic-ek zabaldu du 2008ko Born sariketan parte hartzeko epea.", "sentence_bad": "Bestalde, esan, Cercle Artistic-ek zabaldu du 2008ko Born sariketan parte hartzeko epea."}
+{"sentence_good": "Emakumezkoek, bestalde, hil honen 16an eta 17an neurtuko dituzte indarrak Santiagon.", "sentence_bad": "Emakumezkoek, bere aldetik, hil honen 16an eta 17an neurtuko dituzte indarrak Santiagon."}
+{"sentence_good": "Koartel Etxeen kontra egin du ETA-k, Durangokoaren eta Kalahorrakoaren kontra esaterako, eta kalte handiak eragin ditu.", "sentence_bad": "Koartel Etxeen kontra egin du ETA-k, Durangokoaren eta Kalahorrakoaren kontra esaterako, kalte handiak eraginez."}
+{"sentence_good": "Urkiolan utzi duten autoa prest zegoen leher egiteko; izan ere, barruan bi garrafa gasolina eta tenporizadore bat zeuden.", "sentence_bad": "Urkiolan utzi duten autoa prest zegoen leher egiteko, izan ere, barruan gasolinako bi garrafa eta tenporizadore bat zeuden."}
+{"sentence_good": "Argindarraren garestitzeaz ere arituko gara albiste saioan, Energiaren Batzorde Nazionalak ehuneko 11 igotzea proposatu baitu.", "sentence_bad": "Argindarraren garestitzeaz ere arituko gara albiste saioan, Energiaren Batzorde Nazionalak ehuneko 11 igotzea proposatu ondoren."}
+{"sentence_good": "Zikloiaren astindutik 9 egun pasatu dira, eta Myanmarren oraindik bada laguntzarik jaso ez duen lekurik.", "sentence_bad": "Zikloiaren astindutik 9 egun pasa direnean, eta Myanmarren oraindik bada laguntzarik jaso ez duen lekurik."}
+{"sentence_good": "Donostiarako noranzkoan by pass-a ireki artean, Ertzaintzak Zarautz-ko irteeran aterarazi ditu gidariak.", "sentence_bad": "Donostiarako noranzkoan by pass-a ireki artean, Ertzaintzak Zarautz-ko irteeran aterarazi die gidariei."}
+{"sentence_good": "Euskal popularren izenean Antonio Basagoiti-k babes osoa eskaini dio San Gil-i, eta Mariano Rajoy-ri eskatu dio Euskal Herriko Alderdi Popularra kontuan gehiago izateko.", "sentence_bad": "Euskal popularren izenean Antonio Basagoiti-k babes osoa eskaini dio San Gil-i, eta Mariano Rajoy-ri eskatu dio Euskal Herriko Alderdi Popularrari kontuan gehiago izateko."}
+{"sentence_good": "Atzoko oharraren ostean Maria San Gil-ek gaur oraindik ez du adierazpenik egin.", "sentence_bad": "Atzoko oharraren ostean Maria San Gil-ek gaur oraindik ez ditu adierazpenak egin."}
+{"sentence_good": "Urriaren 30etik azaroaren 2ra bitartean XIV. Manga Aretoa egingo da bertan eta Doraemonen bizitzaz gehiago jakiteko aukera izango da Bartzelonan.", "sentence_bad": "Urriaren 30etik azaroaren 2ra bitartean XIV. Manga Aretoa ospatuko da bertan eta Doraemonen bizitzaz gehiago jakiteko aukera izango da Bartzelonan."}
+{"sentence_good": "Gaur, urriak 31, Halloween gaua izango da eta hori dela eta, mundu guztiko txokoak fantasiaz eta magia bereziz jantziko dira gaur gauean.", "sentence_bad": "Gaur, urriak 31, Halloween gaua izango da eta hori dela eta, mundu guztiko txokoak fantasiaz eta magia bereziaz jantziko dira gaur gauean."}
+{"sentence_good": "Batari edo besteari garaipena eman diezaioketen estatu erabakigarriak.", "sentence_bad": "Bati edo besteari garaipena eman diezaioketen estatu erabakigarriak."}
+{"sentence_good": "Batari edo besteari garaipena eman diezaioketen estatu erabakigarriak.", "sentence_bad": "Batari edo besteari garaipena eman diezaioketen estatu erabakiorrak."}
+{"sentence_good": "Jendea heldu ahala betetzen dira mahaiak, eta, mahaiak betetzen direnean, itxarote-zerrenda bat antolatzen dute 'zentzuzko ordu bat' arte.", "sentence_bad": "Jendea heldu ahala betetzen dira mahaiak, eta, mahaiak betetzen direnean, itxaroteko zerrenda bat antolatzen dute 'zentzuzko ordu bat' arte."}
+{"sentence_good": "Jendea heldu ahala betetzen dira mahaiak, eta, mahaiak betetzen direnean, itxaroteko zerrenda bat zabaltzen dute 'zentzuzko ordu bat' arte.", "sentence_bad": "Jendea heltzen den heinean betetzen dira mahaiak, eta, mahaiak betetzen direnean, itxaroteko zerrenda bat zabaltzen dute 'zentzuzko ordu bat' arte."}
+{"sentence_good": "Euskal presoen senideen elkarteak elkarretaratzeak egin ditu Euskal Herriko ospitale nagusietan, eskakizun horiek aldarrikatzeko.", "sentence_bad": "Euskal presoen senideen elkarteak elkarretaratzeak egin ditu Euskal Herriko ospitale nagusietan, eskakizun horiekin."}
+{"sentence_good": "Guztira, 2004ko urria eta 2005eko ekaina bitartean ekoitzitako 100.000 bateriak akatsak izan zituzten fabrikazio prozesuan, eta honek hainbat sortaren kalitatean eragina izan zuen.", "sentence_bad": "Guztira, 2004ko urria eta 2005eko ekaina bitartean ekoitzitako 100.000 bateriak akatsak izan zituzten fabrikazio prozesuan, eta honek hainbat sortaren kalitatean eraginez."}
+{"sentence_good": "Tawney, komunikazio zuzendaria, boluntarioa da. Beste hainbatek ekitaldiak egiten dituzte estatu osoan zehar eta dirua biltzen dute. Guztientzat dago zereginen bat.", "sentence_bad": "Tawney, komunikazio zuzendaria, boluntarioa da. Beste hainbatek ekitaldiak egiten dituzte estatu osoan zehar eta dirua biltzen dute. Guztientzat dago zeregin bat."}
+{"sentence_good": "Jendea bozkatzera joango dela ziurtatu nahi dugu. Ateak 20:00etan irekiko ditugu, ordu horretan ixten baitituzte hauteslekuak Idahon. Lehen emaitzak heldu ahala, berrituz joango gara.", "sentence_bad": "Jendea bozkatzera joango dela ziurtatu nahi dugu. Ateak 20:00etan irekiko ditugu, ordu horretan ixten baitituzte hauteslekuak Idahon. Lehen emaitzak heltzen diren heinean, berrituz joango gara."}
+{"sentence_good": "Berezko aurrekontua 895 milioi eurokoa da, eta Aldundiko arduradunek garrantzia kendu diote zorpetzeko erabakiari.", "sentence_bad": "Berezko aurrekontua 895 milioi eurokoa da, eta Aldundiko arduradunek garrantzia txikiagotu diote zorpetzeko erabakiari."}
+{"sentence_good": "Kontxako pasealekuan kokatuta, Europako zentro termal handiena da eta erlaxazio, estetika, osasun tratamenduak eskaintzen ditu.", "sentence_bad": "Kontxako pasealekuan kokatuta, Europako zentro termal handiena da eta erlaxazio, estetika, osasun tratamendu ezberdinak eskaintzen ditu."}
+{"sentence_good": "Badirudi urria eguraldi kaskarrarekin bukatuko dela.", "sentence_bad": "Badirudi urria eguraldi kaskarrarekin agurtuko dela."}
+{"sentence_good": "Berehala kartzelaratzea eskatu du fiskaltzak Juanjo Rementeria pisuaren jabearentzat eta hiru maizterrentzat.", "sentence_bad": "Berehalako kartzela eskatu du fiskaltzak Juanjo Rementeria pisuaren jabearentzat eta hiru maizterrentzat."}
+{"sentence_good": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Orobat, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'.", "sentence_bad": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Zentzu horretan, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'."}
+{"sentence_good": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Hori dela eta, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'.", "sentence_bad": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Zentzu horretan, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'."}
+{"sentence_good": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Horren haritik, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'.", "sentence_bad": "Hori horrela, 'begirunea eskatu die Vital Kutxaren indarra zalantzan jartzen duten ahots dramatiko horiei'. Zentzu horretan, Kutxaren 'egoera ona' azpimarratu du: 'Bere zenbakiak, balantzeak eta ratioak, hor daude, eta, Arabako industriari estaldura emateko indarra frogatzen dute'."}
+{"sentence_good": "Txapelketako lehen partidan porrota izan zuen Olimpijak DKV Joventuten kontra (81-64) eta multzoko azken postuan dira.", "sentence_bad": "Txapelketako lehen partidan porrota jaso zuen Olimpijak DKV Joventuten kontra (81-64) eta multzoko azken postuan dira."}
+{"sentence_good": "Arlo musikalari dagokionez, Low (slow-corea asmatu zuen taldea eta indie-rock mugimenduaren aitzindarietako bat), Josh Rouse (folk eta pop doinuak maisuki batu dituen bakarlaria) edo John Cale (Velvet Underground mitikoetako sortzaileetako bat eta bakarlari arrakastatsua) & Band izango dira.", "sentence_bad": "Arlo musikalari dagokionean, Low (slow-corea asmatu zuen taldea eta indie-rock mugimenduaren aitzindarietako bat), Josh Rouse (folk eta pop doinuak maisuki batu dituen bakarlaria) edo John Cale (Velvet Underground mitikoetako sortzaileetako bat eta bakarlari arrakastatsua) & Band izango dira."}
+{"sentence_good": "Hainbat bonba lehertzearen ondorioz, gutxienez 65 pertsona hil dira eta 335 zauritu dira Asam Estatuko hainbat herritan.", "sentence_bad": "Hainbat bonba lehertu ondoren, gutxienez 65 pertsona hil dira eta 335 zauritu dira Asam Estatuko hainbat herritan."}
+{"sentence_good": "Irundarren futbol-zelaian goi mailako hainbat taldek porrot egin dute Errege Kopako txapelketan.", "sentence_bad": "Irundarren futbol-zelaian goi mailako hainbat taldek porrota jaso dute Errege Kopako txapelketan."}
+{"sentence_good": "Jose Luis Cabrera ere baja izango da eta orain, Emilio Sanchezen gaineko zalantza, zailtasun handia izango da Salmeronentzat hasierako hamaikakoa eratzeko orduan.", "sentence_bad": "Jose Luis Cabrera ere baja izango da eta orain, Emilio Sanchezen zalantza, zailtasun handia izango da Salmeronentzat hasierako hamaikakoa eratzeko orduan."}
+{"sentence_good": "Jokalariak, izter batean mina zuelarik, entrenamendua bertan behera utzi behar izan du.", "sentence_bad": "Jokalariak, izter batean minarekin, entrenamendua bertan behera utzi behar izan du."}
+{"sentence_good": "EAE-ko gizonezkoen artean minbizia da heriotza gehien eragiten duena, eta emakumeak heriotzara eramaten dituen bigarren gaitz nagusia da.", "sentence_bad": "EAE-ko gizonezkoen artean minbizia da heriotza gehien eragiten duena, emakumeak heriotzara eramaten dituen bigarren gaitz nagusia delarik."}
+{"sentence_good": "Maradonaren jarraitzaileen Elizan futbolariaren ehunka jarraitzaile bildu dira kirolariaren urtebetetzea eta hautatzaile nazional izendatu izana ospatzeko.", "sentence_bad": "Maradonaren jarraitzaileen Elizan futbolariaren ehunka jarraitzaile bildu dira kirolariaren urtebetetzea eta hautatzaile nazional izendapena ospatzeko."}
+{"sentence_good": "Joan den asteburuan, Eneko Xterra deritzon proban –mendiko bizikletaz egindako triatloiaren mundu-txapelketa– lehiatu zen Hawaiko Maui uhartean. Lehiaketa horretan, 1,5 kilometro egin zuen igeriketan; 30 kilometro, mendiko bizikletaz, eta 10 kilometro, mendian zeharreko oinezko lasterketan.", "sentence_bad": "Joan den asteburuan, Eneko Xterra deritzon proban –mendiko bizikletaz egindako triatloiaren mundu-txapelketa– lehiatu zen Hawaiko Maui uhartean. Lehiaketa horretan, 1,5 kilometroko eginez igeriketan; 30 kilometro, mendiko bizikletaz, eta 10 kilometro, mendian zeharreko oinezko lasterketan."}
+{"sentence_good": "Llanos-ek urriaren 11n jokatu zuen Ironman deritzon lasterketarik prestigiotsuena eta aspaldikoena, eta orain arteko sailkapenik onena lortu du.", "sentence_bad": "Llanos-ek urriaren 11n jokatu zuen Ironman deritzon lasterketarik prestigiotsuena eta aspaldikoena, orain arteko sailkapenik onena lortuz."}
+{"sentence_good": "Polinesiar artxipelagoko egonaldia bukatzeko, triatleta gasteiztarrak seigarren postua lortu zuen asteburuan jokatutako Xterra mendi-triatloian.", "sentence_bad": "Polinesiar artxipelagoko egonaldia osatuz, triatleta gasteiztarrak seigarren postua lortu zuen asteburuan jokatutako Xterra mendi-triatloian."}
+{"sentence_good": "Polinesiar artxipelagoko egonaldiaren amaiera gisa, triatleta gasteiztarrak seigarren postua lortu zuen asteburuan jokatutako Xterra mendi-triatloian.", "sentence_bad": "Polinesiar artxipelagoko egonaldia osatuz, triatleta gasteiztarrak seigarren postua lortu zuen asteburuan jokatutako Xterra mendi-triatloian."}
+{"sentence_good": "Triatleta gasteiztarrak zeregin bikaina osatu du asteburuan: Xterra mendi-triatloian seigarren postua lortu du, eta hirugarren urtez bi proben arteko sailkapen konbinatuan gailendu da.", "sentence_bad": "Triatleta gasteiztarrak zeregin bikaina osatu du asteburuan: Xterra mendi-triatloian seigarren postua lortuz, eta hirugarren urtez bi proben arteko sailkapen konbinatuan gailendu da."}
+{"sentence_good": "Triatleta gasteiztarrak zeregin bikaina osatu du asteburuan: Xterra mendi-triatloian seigarren postua lortuta, eta hirugarren urtez bi proben arteko sailkapen konbinatuan gailendu da.", "sentence_bad": "Triatleta gasteiztarrak zeregin bikaina osatu du asteburuan: Xterra mendi-triatloian seigarren postua lortuz, eta hirugarren urtez bi proben arteko sailkapen konbinatuan gailendu da."}
+{"sentence_good": "Bi gizon eta emakume bat, gazteak denak, hil egin dira, laugarren gazte bat Gurutzetako Ospitalera eraman behar izan dutelarik. Kamioizaleak, berriz, zauritu egin da eta Galdakaoko Ospitalera eraman dute.", "sentence_bad": "Bi gizon eta emakume bat, gazteak denak, hil egin dira, laugarren gazte bat Gurutzetako Ospitalera eraman behar izan dutelarik. Kamioizaleak, berriz, zauriak jasan ditu eta Galdakaoko Ospitalera eraman dute."}
+{"sentence_good": "Kolonbiako armadak Jose Mervel Zamora, Chucho edo El Profe esaten diotena harrapatu zuen atzo.", "sentence_bad": "Kolonbiako armadak Jose Mervel Zamora, Chucho edo El Profe bezala ezaguna harrapatu zuen atzo."}
+{"sentence_good": "Egoera hori, presidente beltz batek aldatu dezakeelako itxaropenak eta Bushen politika ultraliberala sufritu duten beltz eta zuri askok Obamaren jarraitzaile egin ditu.", "sentence_bad": "Egoera hori, presidente beltz batek aldatu dezakeenaren itxaropenak eta Bushen politika ultraliberala sufritu duten beltz eta zuri askok Obamaren jarraitzaile egin ditu."}
+{"sentence_good": "Unibertsitatearen kontra ETA-k egindako atentatua gaitzetsi du eta erne egon behar dela gaineratu du.", "sentence_bad": "Unibertsitatearen kontra ETA-k egindako atentatua gaitzetsi du eta guardia ezin dela jaitsi gaineratu du."}
+{"sentence_good": "Kantaurialdean litekeena da berriro euria gogotik egitea eta kostaldean ekaitza izatea.", "sentence_bad": "Kantaurialdean litekeena da berriro euria gogorra egitea eta kostaldean ekaitza izatea."}
+{"sentence_good": "Biei gauza berak markatu die bizitza: atentatu terrorista baten biktima izateak.", "sentence_bad": "Biei gauza berdinak markatu die bizitza: atentatu terrorista baten biktima izateak."}
+{"sentence_good": "Poli Ejidok ezustekoa eman du Errege Kopako jardunaldian Villa-real jipoituta.", "sentence_bad": "Poli Ejidok ezustekoa eman du Errege Kopako jardunaldian Villa-real jipoituz."}
+{"sentence_good": "Poli Ejidok ezustekoa eman du Errege Kopako jardunaldian Villa-reali egurra emanda.", "sentence_bad": "Poli Ejidok ezustekoa eman du Errege Kopako jardunaldian Villa-real jipoituz."}
+{"sentence_good": "Aurrekoa ez ezik, Avent-Philips eta Tomme Tippe ere kendu dituzte merkatutik, biberoiaren tetina apurtzen delako beharrezko probak egin ostean.", "sentence_bad": "Aurrekoa ez ezik, Avent-Philips eta Tomme Tippe ere kendu dituzte merkatutik, biberoiaren tetina apurtzen delako beharrezko frogak egin ostean."}
+{"sentence_good": "Izan ere, bart, Obamak 30 minututako hauteskunde mezua iragarri du AEBko telebista kate garrantzitsuenetan, audientzia gehien biltzen den orduan.", "sentence_bad": "Izan ere, bart, Obamak 30 minututako hauteskunde mezua iragarri du AEBko telebista kate garrantzitsuenetan, audientzia gehien biltzen den ordutegian."}
+{"sentence_good": "Izan ere, bart, Obamak 30 minututako hauteskunde mezua iragarri du AEBko telebista kate garrantzitsuenetan, audientzia gehien biltzen den orduetan.", "sentence_bad": "Izan ere, bart, Obamak 30 minututako hauteskunde mezua iragarri du AEBko telebista kate garrantzitsuenetan, audientzia gehien biltzen den ordutegian."}
+{"sentence_good": "Antolatzaileek eta Udaletxeko Kultura Sailak 'beti' saiatzen dira ahalik eta euskarazko film gehien sartzen ekimenaren sail ofizialean eta, gainera, aukeratutako pelikula horiek ikusmin handia dutenak izatea.", "sentence_bad": "Antolatzaileek eta Udaletxeko Kultura Sailak 'beti' saiatzen dira ahalik eta euskarazko film gehiago sartzen ekimenaren sail ofizialean eta, gainera, aukeratutako pelikula horiek ikusmin handia dutenak izatea."}
+{"sentence_good": "Zapateroren irakaspenei esker, hautagai demokrata 'herrialde bat zuzentzeko behar den guztia' ikasten ari da.", "sentence_bad": "Zapateroren irakaskuntzei esker, hautagai demokrata 'herrialde bat zuzentzeko behar den guztia' ikasten ari da."}
+{"sentence_good": "Olatz Arrieta berriemailearekin batera.", "sentence_bad": "Olatz Arrieta korresponsariarekin batera."}
+{"sentence_good": "Herritarren % 10 edo % 15, Irakeko egoerak edo terrorismoak kezkatzen zuen.", "sentence_bad": "Herritarren % 10 edo % 15, Irakeko egoerak edo terrorismoak kezkatzen zien."}
+{"sentence_good": "Herritarren % 10 edo % 15, Irakeko egoerak edo terrorismoak zeukan kezkatuta.", "sentence_bad": "Herritarren % 10 edo % 15, Irakeko egoerak edo terrorismoak kezkatzen zien."}
+{"sentence_good": "Bai, lagungarri dela uste dut. Nire ustez Idahoko biztanleak bat datoz Alderdi Errepublikanoarekin eta jende askok uste du alderdi horrexek ordezkatzen dituela ondoen herritarrak.", "sentence_bad": "Bai, lagungarri dela uste dut. Nire ustez Idahoko biztanleak bat datoz Alderdi Errepublikanoarekin eta jende askok uste dute alderdi horrexek ordezkatzen dituela ondoen herritarrak."}
+{"sentence_good": "EL PAIS egunkariaren arabera, ponentzia horretan adierazten da Partidu Popularrak harreman berriak hasi beharko dituela alderdi nazionalistekin, etapa berri bati hasiera emanez.", "sentence_bad": "EL PAIS egunkariaren arabera, ponentzia horretan aipatzen da Partidu Popularrak harreman berriak hasi beharko dituela alderdi nazionalistekin, etapa berri bati hasiera emanez."}
+{"sentence_good": "Izugarrizko hondamendia izan dela jakinarazi du XINHUA albiste agentziak.", "sentence_bad": "Izugarrizko hondamendia izan dela berri eman du XINHUA albiste agentziak."}
+{"sentence_good": "Oyarzabalen esanetan, San Gilek berak bere kabuz hartutako erabakia izan dela, hutsegite larria iruditu zaiola ere esan du arabako PP-ko presidenteak. Ez du iritzi bera agertu Bizkaiko popularren presidenteak, Antonio Basagoitik.", "sentence_bad": "Oyarzabalen esanetan, San Gilek berak bere kabuz hartutako erabakia izan dela, hutsegite larria iruditu zaiola ere esan du arabako PP-ko presidenteak. Ez da iritzi berekoa azaldu Bizkaiko popularren presidentea, Antonio Basagoiti."}
+{"sentence_good": "Txina hegomendebaleko SINCHUAN eskualdea astindu duen lurrikarrak hiru mila hildako baino gehiago utzi dituela jakinarazi dute agentziek.", "sentence_bad": "Txina hegomendebaleko SINCHUAN eskualdea astindu duen lurrikarrak hiru mila hildako baino gehiago utzi dituela berri eman dute agentziek."}
+{"sentence_good": "Eguraldiari dagokionez, aldaketarik ez gaur arratsaldean.", "sentence_bad": "Eguraldiari dagokionean, aldaketarik ez gaur arratsaldean."}
+{"sentence_good": "Beijin hiriburuan bertan, JINMAO dorrerik garaiena eta finantzen guneko beste bi eraikin hustu behar izan dituzte.", "sentence_bad": "Beijin hiriburuan bertan, JINMAO dorrerik garaiena eta finantzen zonaldeko beste bi eraikin hustu behar izan dituzte."}
+{"sentence_good": "Beijin hiriburuan bertan, JINMAO dorrerik garaiena eta finantzen eremuko beste bi eraikin hustu behar izan dituzte.", "sentence_bad": "Beijin hiriburuan bertan, JINMAO dorrerik garaiena eta finantzen zonaldeko beste bi eraikin hustu behar izan dituzte."}
+{"sentence_good": "Eta Zapaterok egiazki sinetsiko balitu bere elkarrizketa proposamenak, irtenbideez mintzatuko litzateke, eta ez Ajuria Eneako hurrengo miazterraz.", "sentence_bad": "Eta Zapaterok egiazki sinetsiko balitu bere elkarrizketa proposamenak, irtenbideez mintzatuko zen, eta ez Ajuria Eneako hurrengo miazterraz."}
+{"sentence_good": "PSOE-ren gobernuak ez ditu tortura eta gisako tresnak alde batera utzi nahi.", "sentence_bad": "PSOE-ren gobernuak ez du tortura bezalako tresna bat alde batera utzi nahi."}
+{"sentence_good": "Eguraldi atseginarekin eta Euskal Herri osotik joandako milaka euskaltzalerekin egin da 25. edizioa.", "sentence_bad": "Eguraldi atseginarekin eta Euskal Herri osotik joandako milaka euskaltzalekin egin da 25. edizioa."}
+{"sentence_good": "Gaur egungo aparatuek eta trasteek ez omen dute garai batekoek adina irauten.", "sentence_bad": "Gaur egungo aparailuek eta trasteek ez omen dute garai batekoek adina irauten."}
+{"sentence_good": "Tenperaturak igo egingo dira eta 20 graduren bueltan ibiliko dira gaur. Ez da izango egun dotore horietako bat, baina goiz partean udaberri itxura izango du, eta gero nahastuz joango da.", "sentence_bad": "Tenperaturak igo egingo dira eta 20 graduren bueltan ibiliko dira gaur. Ez da izango egun dotore horietako bat, baina goiz partean udaberri itxura izango du, gero nahastuko bada ere."}
+{"sentence_good": "Unibertsitarioek oporrak hartuko dituzte hurrengo astean.", "sentence_bad": "Unibertsitariek oporrak hartuko dituzte hurrengo astean."}
+{"sentence_good": "Arazoa konponduko den seinale.", "sentence_bad": "Arazoa konponduko denaren seinale."}
+{"sentence_good": "Auzian defentsa abokatuak frogatu du ez dela erruduna.", "sentence_bad": "Auzian defentsa abokatuak probatu du ez dela erruduna."}
+{"sentence_good": "Kiroldegi berria egin dute.", "sentence_bad": "Polikiroldegi berria egin dute."}
+{"sentence_good": "Nik neuk esan nion ez etortzeko.", "sentence_bad": "Pertsonalki esan nion ez etortzeko."}
+{"sentence_good": "Pentsamolde bakarra ezartzea arriskutsua da.", "sentence_bad": "Pentsamendu bakarra ezartzea arriskutsua da."}
+{"sentence_good": "Pentsaera bakarra ezartzea arriskutsua da.", "sentence_bad": "Pentsamendu bakarra ezartzea arriskutsua da."}
+{"sentence_good": "Merezi izan du.", "sentence_bad": "Pena merezi izan du."}
+{"sentence_good": "Gernikako bonbardaketaren 70. urteurrena gogoratuko dute.", "sentence_bad": "Gernikako bonbardaketaren 70. urteurrena ospatuko dute."}
+{"sentence_good": "Oso klima leuna dugu.", "sentence_bad": "Oso klimatologia leuna dugu."}
+{"sentence_good": "Mahairik txikiena 2,05 metro luze da.", "sentence_bad": "Mahairik txikiena 2,05 metro neurtzen du."}
+{"sentence_good": "Neanderthalgo gizakia duela milaka urte bizi zen.", "sentence_bad": "Neanderthalgo gizona duela milaka urte bizi zen."}
+{"sentence_good": "Monasterioko eliza handia da.", "sentence_bad": "Monastegiko eliza handia da."}
+{"sentence_good": "Menu begetarianoa eskatzeko aukera dago.", "sentence_bad": "Menu barazkijalea eskatzeko aukera dago."}
+{"sentence_good": "Munduko Txapelketan lehiatu da.", "sentence_bad": "Munduko Txapelketan lehiatu du."}
+{"sentence_good": "Merkaturatzeko gastu handia egin du enpresak.", "sentence_bad": "Lantzamendu gastu handia egin du enpresak."}
+{"sentence_good": "Estilo jasoan idatzita dago.", "sentence_bad": "Estilo kultoan idatzita dago."}
+{"sentence_good": "Asko kostatu da.", "sentence_bad": "Asko kostatu du."}
+{"sentence_good": "Asko kostatu zaio.", "sentence_bad": "Asko kostatu du."}
+{"sentence_good": "Dopin-kontrolean positibo eman zuen.", "sentence_bad": "Kontrol antidopin positibo eman zuen."}
+{"sentence_good": "Dopin-analisian positibo eman zuen.", "sentence_bad": "Kontrol antidopin positibo eman zuen."}
+{"sentence_good": "Miguel Blanco konpositore ezaguna da.", "sentence_bad": "Miguel Blanco konposagile ezaguna da."}
+{"sentence_good": "Helburu jakin bat izan behar dugu lanean hasi baino lehenago.", "sentence_bad": "Helburu konkretu bat izan behar dugu lanean hasi baino lehenago."}
+{"sentence_good": "Bere indar guztiarekin jo zuen atea.", "sentence_bad": "Bere indar guztiarekin kolpatu zuen atea."}
+{"sentence_good": "Eguraldiaren eraginez, fruituak gehiago heldu dira.", "sentence_bad": "Klimatologiaren eraginez, fruituak gehiago heldu dira."}
+{"sentence_good": "Jaurlaritza etxeratzeko agindua 18:00 edo 20:00etara aurreratzea aztertzen ari da.", "sentence_bad": "Jaurlaritza keda egoera 18:00 edo 20:00etara aurreratzea aztertzen ari da."}
+{"sentence_good": "Erasoak kalte zehar kalteak izan ditu.", "sentence_bad": "Erasoak kalte kolateralak izan ditu."}
+{"sentence_good": "Korrika egin zuen parkean.", "sentence_bad": "Jogging egin zuen parkean."}
+{"sentence_good": "Inflazioa % 1,1 jaitsi da.", "sentence_bad": "Inflazioa % 1,1ean jaitsi da."}
+{"sentence_good": "X eta Y izatezko bikote dira.", "sentence_bad": "X eta Y egitezko bikote dira."}
+{"sentence_good": "Txirrindulariak prest zeuden irteteko.", "sentence_bad": "Txirrindulariak prest zeuden irteera hartzeko."}
+{"sentence_good": "Bihar hasiko dute urte politikoa.", "sentence_bad": "Bihar hasiko dute ikasturte politikoa."}
+{"sentence_good": "Bi puntu igo da langabezia.", "sentence_bad": "Bi puntutan igo da langabezia."}
+{"sentence_good": "Hobeki esan, gaizki dago.", "sentence_bad": "Hobe esan, gaizki dago."}
+{"sentence_good": "Proba nuklearrak atzo egin ziren.", "sentence_bad": "Froga nuklearrak atzo egin ziren."}
+{"sentence_good": "Filma ez zitzaidan batere gustatu.", "sentence_bad": "Filma ez zitzaidan ezer gustatu."}
+{"sentence_good": "Etxean atxiloturik daukate.", "sentence_bad": "Etxeko atxiloketan dago."}
+{"sentence_good": "Bizikleta, automobila, motorra eta abar ekarri dizkiote.", "sentence_bad": "Bizikleta, automobila, motorra eta abar luze bat ekarri dizkiote."}
+{"sentence_good": "Errege-erregina katolikoak Elisabet I.a Gaztelakoa eta Fernando II.a Aragoikoa ziren.", "sentence_bad": "Errege katolikoak Elisabet I.a Gaztelakoa eta Fernando II.a Aragoikoa ziren."}
+{"sentence_good": "X etorkinen trafikoaren auzian erruduna dela ebatzi du epaileak.", "sentence_bad": "X etorkinen trafikoaren auzian erantzulea dela ebatzi du epaileak."}
+{"sentence_good": "Papa Wemba etorkinen trafikoaren auzian erruduna dela ebatzi du epaileak.", "sentence_bad": "Papa Wemba etorkinen trafikoaren auzian erantzulea dela ebatzi du epaileak."}
+{"sentence_good": "Planoko akatsen zuzenketak egun bat iraungo du.", "sentence_bad": "Planoko akatsen emendak egun bat iraungo du."}
+{"sentence_good": "Aldaketak izan dira gizartean.", "sentence_bad": "Aldaketak eman dira gizartean."}
+{"sentence_good": "Bestelako fenomenoak ere izaten dira gure artean.", "sentence_bad": "Bestelako fenomenoak ere ematen dira gure artean."}
+{"sentence_good": "George Bush, Nelson Mandela eta Elizabeth Taylor ibili dira itsasontzi horretan.", "sentence_bad": "George Bush, Nelson Mandela edo Elizabeth Taylor ibili dira itsasontzi horretan."}
+{"sentence_good": "Bidean, hainbat herrixka, bertzeak bertze Donaixti, Larzabale eta Izpura.", "sentence_bad": "Bidean, hainbat herrixka, bertzeak bertze Donaixti, Larzabale edo Izpura."}
+{"sentence_good": "Ertzaintza Bilboko egoitzara sartu zen egun hartan, abuztuaren 27an.", "sentence_bad": "Ertzaintza Bilboko egoitzara sartu zen data hartan, abuztuaren 27an."}
+{"sentence_good": "Munduko biztanleria.", "sentence_bad": "Munduko biztanlegoa."}
+{"sentence_good": "Gonbidatuek hitz egin nahi zuten, baina aurkezleak nahiago zuen saioa musikaz osatu.", "sentence_bad": "Gonbidatuek hitz egin nahi zuten bitartean, aurkezleak nahiago zuen saioa musikaz osatu."}
+{"sentence_good": "Jone da zure bikotekidea?", "sentence_bad": "Jone da zure bikotea?"}
+{"sentence_good": "Jone da zure bikote-laguna?", "sentence_bad": "Jone da zure bikotea?"}
+{"sentence_good": "Arazo bihurtu zaigu.", "sentence_bad": "Arazoan bihurtu zaigu."}
+{"sentence_good": "Lehengo egunean bururatu zitzaidan.", "sentence_bad": "Beste egunean bururatu zitzaidan."}
+{"sentence_good": "Beste bilera batera deitu digu.", "sentence_bad": "Bilera berri batera deitu digu."}
+{"sentence_good": "Teoria batzuen arabera, Lurra berotzeak beste glaziazio bat ekarriko du.", "sentence_bad": "Teoria batzuen arabera, Lurra berotzeak glaziazio berri bat ekarriko du."}
+{"sentence_good": "Igandean berriz jokatzen hasteko prest dago Irujo.", "sentence_bad": "Igandean berragerpena egiteko prest dago Irujo."}
+{"sentence_good": "Gotzon Agirrek nabarmendu zuen negoziatzeko prest daudela. Joseba Labakak, berriz, fruituaren metafora erabili zuen patronalaren egoera irudikatzeko.", "sentence_bad": "Gotzon Agirrek nabarmendu zuen negoziatzeko prest daudela. Joseba Labakak, bere aldetik, fruituaren metafora erabili zuen patronalaren egoera irudikatzeko."}
+{"sentence_good": "Ezkerreko joera politiko orok bat egin dute deialdiarekin, abertzaleak, komunistak, ezker muturrekoak eta PS-ko sektore bat barne.", "sentence_bad": "Ezkerreko joera politiko orok bat egin dute deialdiarekin, abertzaleek, komunistek, ezker muturrekoek eta PS-ko sektore batek barne."}
+{"sentence_good": "Sistemaren barnean dago.", "sentence_bad": "Sistemaren barne dago."}
+{"sentence_good": "Balio moral bat da elkartasuna.", "sentence_bad": "Balore moral bat da elkartasuna."}
+{"sentence_good": "Ordenagailu berriak erosi ditugu, eta horrek aukera ematen digu bizkorrago lan egiteko.", "sentence_bad": "Ordenagailu berriak erosi ditugu, eta horrek baimentzen digu bizkorrago lan egitea."}
+{"sentence_good": "Lan hori atzoko bukatu behar nuen.", "sentence_bad": "Lan hori atzorako bukatu behar nuen."}
+{"sentence_good": "Atentzioa eman zidan haren orrazkerak.", "sentence_bad": "Atentzioa deitu zidan haren orrazkerak."}
+{"sentence_good": "Egindako lanari esker, munduko astronomo ospetsuen bihurtu da.", "sentence_bad": "Egindako lanari esker, munduko astronomilari ospetsuen bihurtu da."}
+{"sentence_good": "Behin-behinean aske utzi dute.", "sentence_bad": "Behin-behineko askatasunean utzi dute."}
+{"sentence_good": "John Ford film ahaztezin askoren zuzendaria izan zen.", "sentence_bad": "John Ford film ahaztezin askoren arduraduna izan zen."}
+{"sentence_good": "Danimarkako segurtasun indarrak lanean ari dira, istripuaren errudunak lehenbailehen Justiziaren esku jartzeko.", "sentence_bad": "Danimarkako segurtasun indarrak lanean ari dira, istripuaren arduradunak lehenbailehen Justiziaren esku jartzeko."}
+{"sentence_good": "Iritziak franko aldatzen dira, nori galdetzen zaion.", "sentence_bad": "Iritziak franko aldatzen dira, nori galdetzen zaionaren arabera."}
+{"sentence_good": "Iruñea eta Baiona senideturik daude.", "sentence_bad": "Iruñea eta Baiona anaiturik daude."}
+{"sentence_good": "Zigorra kendu berri diote.", "sentence_bad": "Zigorra altxatu berri diote."}
+{"sentence_good": "Oraindik ez diote sekretua kendu sumarioan.", "sentence_bad": "Oraindik ez diote sekretua altxatu sumarioan."}
+{"sentence_good": "Barakaldako udaltzainei eginiko erasoa beren gain hartu dute.", "sentence_bad": "Barakaldako udaltzainei eginiko erasoa aldarrikatu dute."}
+{"sentence_good": "Esparru-hitzarmena landu behar litzateke, lanerako oinarriak zehazteko.", "sentence_bad": "Akordio markoa landu behar litzateke, lanerako oinarriak zehazteko."}
+{"sentence_good": "Azkar-azkar agurtu nituen lagunak.", "sentence_bad": "Azkar-azkar agurtu nintzen lagunengandik."}
+{"sentence_good": "ADN proba egin zidaten.", "sentence_bad": "ADN froga egin zidaten."}
+{"sentence_good": "Nekatuta gaude denok.", "sentence_bad": "Nekatutak gaude denok."}
+{"sentence_good": "Nekaturik gaude denok.", "sentence_bad": "Nekatutak gaude denok."}
+{"sentence_good": "Nik bera uste dut.", "sentence_bad": "Nik berdina uste dut."}
+{"sentence_good": "Trenak zapalduta hil zen.", "sentence_bad": "Trenagatik zapalduta hil zen."}
+{"sentence_good": "Zaindariek ikusia izan zen.", "sentence_bad": "Zaindariengatik ikusia izan zen."}
+{"sentence_good": "Testuan esaten da hori egitea txarra dela.", "sentence_bad": "Testuan esaten da nola hori egitea txarra dela."}
+{"sentence_good": "Euria ari du.", "sentence_bad": "Euria dago."}
+{"sentence_good": "Txarto jokatzen ari da.", "sentence_bad": "Txarto jokatzen dago."}
+{"sentence_good": "Egun berean joan ziren oporretara.", "sentence_bad": "Egun berdinean joan ziren oporretara."}
+{"sentence_good": "Atzoko mutil bera etorri da ate joka.", "sentence_bad": "Atzoko mutil berdina etorri da ate joka."}
+{"sentence_good": "Txapelketan sei berdinketa izan dira.", "sentence_bad": "Txapelketan sei berdinketa eman dira."}
+{"sentence_good": "Txapelketan sei berdinketa gertatu dira.", "sentence_bad": "Txapelketan sei berdinketa eman dira."}
+{"sentence_good": "Realak gaur jokatzen du.", "sentence_bad": "Realak gaur jolasten du."}
+{"sentence_good": "Partida ona jokatu du Altuna III.ak.", "sentence_bad": "Partida ona jolastu du Altuna III.ak."}
+{"sentence_good": "Jakina etorriko dela!", "sentence_bad": "Noski etorriko dela!"}
+{"sentence_good": "Horixe etorriko dela!", "sentence_bad": "Noski etorriko dela!"}
+{"sentence_good": "Ez du merezi hori egitea.", "sentence_bad": "Ez du pena merezi hori egitea."}
+{"sentence_good": "Udalak erabaki bat hartu du.", "sentence_bad": "Udaletxeak erabaki bat hartu du."}
+{"sentence_good": "Horretaz ez dakit asko.", "sentence_bad": "Horretaz ez dakit gehiegi."}
+{"sentence_good": "Ez daukat gogo handirik.", "sentence_bad": "Ez daukat gogo handiegirik."}
+{"sentence_good": "Maitasun handiagoa erakutsi behar duzu.", "sentence_bad": "Maitasun gehiago erakutsi behar duzu."}
+{"sentence_good": "Beste egunen batean etorriko da.", "sentence_bad": "Beste egunean etorriko da."}
+{"sentence_good": "Orixe izenez ezagutua.", "sentence_bad": "Orixe bezala ezagutua."}
+{"sentence_good": "—Nor dabil hor? —Inor ez.", "sentence_bad": "—Nor dabil hor? —Inor."}
+{"sentence_good": "Ez zen inor etorri.", "sentence_bad": "Ez zen inor ez etorri."}
+{"sentence_good": "Bururik ez duenak ez du behar txapelik.", "sentence_bad": "Burua ez duenak ez du behar txapela."}
+{"sentence_good": "Aspertu naiz hemen. Joango gara etxera?", "sentence_bad": "Aspertu naiz hemen. Joaten gara etxera?"}
+{"sentence_good": "Saiatzen bada, lortuko du.", "sentence_bad": "Saiatzen bada, lortuko luke."}
+{"sentence_good": "Zuek dituzuen aukerak izan bagenitu, beste modu batera biziko ginateke orain.", "sentence_bad": "Zuek dituzuen aukerak izan bagenitu, beste modu batera biziko ginatekeen orain."}
+{"sentence_good": "Garbitu duzu aurpegia?", "sentence_bad": "Garbitu zara aurpegia?"}
+{"sentence_good": "Hau bihar honela egin beharko litzateke.", "sentence_bad": "Hau bihar honela egin beharko zen."}
+{"sentence_good": "Gustura joango nintzateke Kubara.", "sentence_bad": "Gustura joango nintzen Kubara."}
+{"sentence_good": "Poliziak atxilotu zuen.", "sentence_bad": "Poliziagatik atxilotua izan zen."}
+{"sentence_good": "Lagundu baino gehiago, kalte egiten du.", "sentence_bad": "Lagundu baino, kalte egiten du."}
+{"sentence_good": "Sentimenduei baino gehiago emozioei egin behar zaie jaramon.", "sentence_bad": "Sentimenduei baino emozioei egin behar zaie jaramon."}
+{"sentence_good": "Amaitzeko, bakarrik esan nahi dut hamabost egun daudela errekurtsoa aurkezteko.", "sentence_bad": "Amaitzeko, bakarrik esan, hamabost egun daudela errekurtsoa aurkezteko."}
+{"sentence_good": "Hau pentsatzen dut gai horri dagokionez.", "sentence_bad": "Hau pentsatzen dut gai horri dagokionean."}
+{"sentence_good": "Gazteetan, % 7k badaki hori.", "sentence_bad": "Gazteetan, % 7ak badaki hori."}
+{"sentence_good": "Kafea hartuz hitz egingo dugu.", "sentence_bad": "Kafea hartzen hitz egingo dugu."}
+{"sentence_good": "Hamar jasoaldi eginda lortu zuen txapela.", "sentence_bad": "Hamar jasoaldi eginez lortu zuen txapela."}
+{"sentence_good": "Haiek partida irabazi dute, eta guk ere bai.", "sentence_bad": "Haiek partida irabazi dute, eta guk ere."}
+{"sentence_good": "Hori egiteko gogoarekin nago.", "sentence_bad": "Hori egiteko gogoekin nago."}
+{"sentence_good": "Jendea gogoarekin aritu da.", "sentence_bad": "Jendea gogoekin aritu da."}
+{"sentence_good": "Jendea gogoz aritu da.", "sentence_bad": "Jendea gogoekin aritu da."}
+{"sentence_good": "Jendea gogotsu aritu da.", "sentence_bad": "Jendea gogoekin aritu da."}
+{"sentence_good": "Gure autoa, ez dena oso zaharra, askoz merkeagoa da.", "sentence_bad": "Gure autoa, ez dela oso zaharra, askoz merkeagoa da."}
+{"sentence_good": "Nik badaukat lagun bat askotan gure etxera etortzen dena.", "sentence_bad": "Nik badaukat lagun bat askotan gure etxera etortzen dela."}
+{"sentence_good": "Etorriko zaren ustean gaude.", "sentence_bad": "Etorriko zarenaren ustean gaude."}
+{"sentence_good": "Etorriko zarelako ustean gaude.", "sentence_bad": "Etorriko zarenaren ustean gaude."}
+{"sentence_good": "Ekonomia gaizki doalako berria ez gintuzke harritu behar.", "sentence_bad": "Ekonomia gaizki doalaren berriak ez gintuzke harritu behar."}
+{"sentence_good": "Ekonomia gaizki doan berria ez gintuzke harritu behar.", "sentence_bad": "Ekonomia gaizki doalaren berriak ez gintuzke harritu behar."}
+{"sentence_good": "Hobeto moldatuko zara horrela.", "sentence_bad": "Hobe moldatuko zara horrela."}
+{"sentence_good": "Hobeki moldatuko zara horrela.", "sentence_bad": "Hobe moldatuko zara horrela."}
+{"sentence_good": "Lehen, asko etortzen zen gure dendara.", "sentence_bad": "Lehen, asko etortzen zen gure dendatik."}
+{"sentence_good": "Atzo goizean etxean ibili nintzen.", "sentence_bad": "Atzo goizean etxetik ibili nintzen."}
+{"sentence_good": "Badakizu zer gertatu den?", "sentence_bad": "Badakizu gertatu dena?"}
+{"sentence_good": "Pentsa ezazu zer behar duzun.", "sentence_bad": "Pentsa ezazu behar duzuna."}
+{"sentence_good": "Bilera bukatu ondoren, kalera joan gara.", "sentence_bad": "Bilera eta gero, kalera joan gara."}
+{"sentence_good": "Bilera bukatu eta gero, kalera joan gara.", "sentence_bad": "Bilera eta gero, kalera joan gara."}
+{"sentence_good": "Lau urteren ondoren ikusi dugu hori.", "sentence_bad": "Lau urte eta gero ikusi dugu hori."}
+{"sentence_good": "Lau urte igaro eta gero ikusi dugu hori.", "sentence_bad": "Lau urte eta gero ikusi dugu hori."}
+{"sentence_good": "Oraintxe bertan txuleta eder bat jango nuke.", "sentence_bad": "Oraintxe bertan txuleta eder bat jango nuen."}
+{"sentence_good": "Esaiozu, mesedez, gero joango naizela.", "sentence_bad": "Esaten diozu, mesedez, gero joango naizela?"}
+{"sentence_good": "Esango zenioke, mesedez, gero joango naizela.", "sentence_bad": "Esaten diozu, mesedez, gero joango naizela?"}
+{"sentence_good": "Langile bat hil da gaur istripuz. Kiroldegi berria eraikitzeko obran ari zela, 12 metrotik behera erori da.", "sentence_bad": "Langile bat hil da gaur istripuz. Kiroldegi berria eraikitzeko obran ari zen, 12 metrotik behera erori denean."}
+{"sentence_good": "Aizu, neska, urduri al zaude?", "sentence_bad": "Aizu, neska, nerbiosa al zaude?"}
+{"sentence_good": "Horren edertasunak atentzioa eman dit.", "sentence_bad": "Horren edertasunak atentzioa deitu dit."}
+{"sentence_good": "Gurasoen ardura da seme-alaben mantenua.", "sentence_bad": "Gurasoen ardura da seme-alaben mantenimendua."}
+{"sentence_good": "Bi fisikari izan ditugu eskolan.", "sentence_bad": "Bi fisiko izan ditugu eskolan."}
+{"sentence_good": "Ondo moldatzen gara.", "sentence_bad": "Ondo eramaten gara."}
+{"sentence_good": "Nautilus izeneko itsaspekoa.", "sentence_bad": "Nautilus izena daraman itsaspekoa."}
+{"sentence_good": "Apaiztegian egon nintzen gaztetan.", "sentence_bad": "Apaiztegian izan nintzen gaztetan."}
+{"sentence_good": "Telebista ikusten egon naiz.", "sentence_bad": "Telebista ikusten izan naiz."}
+{"sentence_good": "Dekretu-egitasmoak aldaketa batzuk izan ditu.", "sentence_bad": "Dekretu-egitasmoak aldaketa batzuk jasan ditu."}
+{"sentence_good": "Kalean ikusi nauzu.", "sentence_bad": "Kalean ikusi didazu."}
+{"sentence_good": "Eskolara joateko esan didazu.", "sentence_bad": "Eskolara joateko esan nauzu."}
+{"sentence_good": "Nola duzu izena?", "sentence_bad": "Nola izena duzu?"}
+{"sentence_good": "Lehendakariak elkarrizketak izan/egin zituen alderdi guztiekin.", "sentence_bad": "Lehendakariak elkarrizketak mantendu zituen alderdi guztiekin."}
+{"sentence_good": "Hiruhileko honetan sei bilera egingo ditugu.", "sentence_bad": "Hiruhileko honetan sei bilera burutuko ditugu."}
+{"sentence_good": "Oso istorio xelebreak kontatzen ditu pailazoak.", "sentence_bad": "Oso historia xelebreak kontatzen ditu pailazoak."}
+{"sentence_good": "Euskal literaturaren historia XVI. mendean hasi zen.", "sentence_bad": "Euskal literaturaren istorioa XVI. mendean hasi zen."}
+{"sentence_good": "Irakasleen kidegoan sartzeko baldintzak.", "sentence_bad": "Irakasleen gorputzean sartzeko baldintzak."}
+{"sentence_good": "Eusko Jaurlaritzaren egoitza nagusia Gasteizen dago.", "sentence_bad": "Eusko Jaurlaritzaren egoitza nagusia Gasteizen kokatzen da."}
+{"sentence_good": "Askotan talde heterogeneoekin talde heterogeneoak izaten ditugu geletan.", "sentence_bad": "Askotan talde heterogeneoekin aurkitzen gara geletan."}
+{"sentence_good": "Amak goraintziak eman dizkit zuretzat.", "sentence_bad": "Amak agurrak eman dizkit zuretzat."}
+{"sentence_good": "Amak eskumuinak eman dizkit zuretzat.", "sentence_bad": "Amak agurrak eman dizkit zuretzat."}
+{"sentence_good": "Kasu bakan bat atzeman da.", "sentence_bad": "Kasu isolatu bat atzeman da."}
+{"sentence_good": "Jokaldi solte batean sartu zuen gola.", "sentence_bad": "Jokaldi isolatu batean sartu zuen gola."}
+{"sentence_good": "ETAri mintzatu behar zaiola esan dio Rubalcabak Otegiri.", "sentence_bad": "ETAri zuzendu behar zaiola esan dio Rubalcabak Otegiri."}
+{"sentence_good": "—Lotsatia da ume hori, ez da hala? —Segun norekin den.", "sentence_bad": "—Lotsatia da ume hori, ez da hala? —Depende norekin den."}
+{"sentence_good": "—Garesti jotzen al du han bazkaltzeak? —Segun zer eskatzen duzun.", "sentence_bad": "—Garesti jotzen al du han bazkaltzeak? —Depende zer eskatzen duzun."}
+{"sentence_good": "Nolabait, zoriontsu izateko sortzen duzu artea.", "sentence_bad": "Zentzu batean, zoriontsu izateko sortzen duzu artea."}
+{"sentence_good": "Kafea ere prezioaren barnean dago.", "sentence_bad": "Kafea ere prezioaren barne dago."}
+{"sentence_good": "Donostian kokatu dira.", "sentence_bad": "Donostian finkatu dira."}
+{"sentence_good": "Gela egoera txarrean dago.", "sentence_bad": "Gela baldintza txarrean dago."}
+{"sentence_good": "Sasoi onean dago gaurko partidarako.", "sentence_bad": "Baldintza onetan dago gaurko partidarako."}
+{"sentence_good": "Plazan egon gara.", "sentence_bad": "Plazatik egon gara."}
+{"sentence_good": "Kalean ikusi dut.", "sentence_bad": "Kaletik ikusi dut."}
+{"sentence_good": "Arrazakeria baztertu egin behar da.", "sentence_bad": "Arrazakeriarekin amaitu behar da."}
+{"sentence_good": "Afaria bukatu zuen.", "sentence_bad": "Afariarekin bukatu zuen."}
+{"sentence_good": "Ehun euro garestitu da.", "sentence_bad": "Ehun euroan garestitu da."}
+{"sentence_good": "Digitu bakarreko zenbakia lortzeko egin behar den biderketa-kopuruari deritzo persistentzia.", "sentence_bad": "Digitu bakarreko zenbakia lortzeko egin behar den biderketa-zenbakiari deritzo persistentzia."}
+{"sentence_good": "Lanean jarraitu du serio-serio.", "sentence_bad": "Lanarekin jarraitu du serio-serio."}
+{"sentence_good": "Bai botoia sakatu, eta instalatzen jarraituko dugu.", "sentence_bad": "Bai botoia sakatu, eta instalazioarekin jarraituko dugu-."}
+{"sentence_good": "Beti zabiltza tontoarena egiten.", "sentence_bad": "Beti zabiltza tontoa egiten."}
+{"sentence_good": "Ez zaitez ibil pailazoarena egiten.", "sentence_bad": "Ez zaitez ibil pailazoa egiten."}
+{"sentence_good": "—Zer esan dizu? —Ezer ez.", "sentence_bad": "—Zer esan dizu? —Ezer."}
+{"sentence_good": "Txabola nik egina da.", "sentence_bad": "Txabola nigatik egina da."}
+{"sentence_good": "Biz biderkatu.", "sentence_bad": "Bigatik biderkatu."}
+{"sentence_good": "Pilotalekuan ezin da futbolean jokatu.", "sentence_bad": "Pilotalekuan ezin da futbolera jolastu."}
+{"sentence_good": "Oso nekaturik nagoenez gero, ez naiz neure buruaren jabe.", "sentence_bad": "Oso nekaturik nagoelako, ez naiz neure buruaren jabe."}
+{"sentence_good": "Zeozer apurtu da, lurrean kristal-zatiak baitaude.", "sentence_bad": "Zeozer apurtu da, lurrean kristal-zatiak daudelako."}
+{"sentence_good": "Zeozer apurtu da, lurrean kristal-zatiak daude eta.", "sentence_bad": "Zeozer apurtu da, lurrean kristal-zatiak daudelako."}
+{"sentence_good": "Ezetza jaso du, zeren kopetilun dator.", "sentence_bad": "Ezetza jaso du, zeren kopetilun datorrelako."}
+{"sentence_good": "Ezetza jaso du, zeren kopetilun baitator.", "sentence_bad": "Ezetza jaso du, zeren kopetilun datorrelako."}
+{"sentence_good": "Ni ados nator zuk diozunarekin.", "sentence_bad": "Ni pertsonalki ados nator zuk diozunarekin."}
+{"sentence_good": "Langileen erdiak euskaldunak dira, eta beste erdiak, erdaldunak.", "sentence_bad": "Langileen erdiak euskaldunak diren bitartean, beste erdiak, erdaldunak."}
+{"sentence_good": "Herriko biztanle guztiek ikusia izan zen.", "sentence_bad": "Herriko biztanle guztiengandik ikusia izan zen."}
+{"sentence_good": "Zer esan behar nuen?", "sentence_bad": "Zer esatera nindoan?"}
+{"sentence_good": "Demagun jan behar duzun sagarra esferikoa dela.", "sentence_bad": "Demagun jatera zoazen sagarra esferikoa dela."}
+{"sentence_good": "Gustatuko litzaidake bihar sagardotegian txuleta jatea!", "sentence_bad": "Gustatuko zitzaidan bihar sagardotegian txuleta jatea!"}
+{"sentence_good": "Gonbidatuko banindute, gustura joango nintzateke bilerara.", "sentence_bad": "Gonbidatuko banindute, gustura joango nintzen bilerara."}
+{"sentence_good": "Erabaki hori ez da batere erraza.", "sentence_bad": "Erabaki hori ez da ezer erraza."}
+{"sentence_good": "Ez dago batere ongi esana.", "sentence_bad": "Ez dago ezer ongi esana."}
+{"sentence_good": "Adi lainoarekin!", "sentence_bad": "Adi lainoaz!"}
+{"sentence_good": "Topikoak hautsi beharra dago.", "sentence_bad": "Topikoekin hautsi beharra dago."}
+{"sentence_good": "Beste gauza bat ere esan zuen.", "sentence_bad": "Beste gauza ere esan zuen."}
+{"sentence_good": "Lehengo egunean hitz egin zuen Legebiltzarrean.", "sentence_bad": "Beste egunean hitz egin zuen Legebiltzarrean."}
+{"sentence_good": "Aurreko egunean hitz egin zuen Legebiltzarrean.", "sentence_bad": "Beste egunean hitz egin zuen Legebiltzarrean."}
+{"sentence_good": "Badu lagun bat igeltseroa dena.", "sentence_bad": "Badu lagun bat igeltseroa dela."}
+{"sentence_good": "Ez ibili irristailuekin, erori egingo zara eta!", "sentence_bad": "Ez ibili irristailuekin, eroriko zarela!"}
+{"sentence_good": "Leihotik erori zen, eta hanka hautsi zuen.", "sentence_bad": "Leihotik erori zen, hanka hautsi zuelarik."}
+{"sentence_good": "Haserre handiak izaten dira notak jasotzeko garaian.", "sentence_bad": "Haserre handiak izaten dira notak jasotzerako garaian."}
+{"sentence_good": "Iturri batzuen arabera, Espainiako erregea uda honetan ezkonduko da.", "sentence_bad": "Iturri batzuen arabera, Espainiako erregea uda honetan ezkonduko litzateke."}

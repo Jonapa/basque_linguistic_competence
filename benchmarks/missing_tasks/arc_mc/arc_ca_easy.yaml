@@ -1,0 +1,22 @@
+task: arc_ca_easy_mc
+dataset_name: ARC-Easy
+dataset_path: projecte-aina/arc_ca
+output_type: multiple_choice
+training_split: null
+validation_split: validation
+test_split: test
+doc_to_text: !function utils.doc_to_text_ca
+doc_to_choice: !function utils.doc_to_choice
+doc_to_target: "{{choices.label.index(answerKey)}}"
+should_decontaminate: true
+doc_to_decontamination_query: "Pregunta: {{question}}\nResposta:"
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
+

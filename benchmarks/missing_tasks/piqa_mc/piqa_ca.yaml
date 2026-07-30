@@ -1,0 +1,21 @@
+task: piqa_ca_mc
+dataset_path: projecte-aina/piqa_ca
+dataset_name: null
+output_type: multiple_choice
+training_split: null
+validation_split: validation
+test_split: null
+doc_to_text: "Pregunta: {{goal}}\nA: {{sol1}}\nB: {{sol2}}\nResposta:"
+doc_to_choice: ["A", "B"]
+doc_to_target: label
+should_decontaminate: true
+doc_to_decontamination_query: goal
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+  - metric: acc_norm
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

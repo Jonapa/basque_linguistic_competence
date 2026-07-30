@@ -1,0 +1,57 @@
+# Task naming + registration:
+task: ab-instruct_BL2MP
+# task_alias: 
+# tags: 
+
+# Dataset configuration options:
+dataset_path: json
+dataset_name: null
+dataset_kwargs:
+  data_files: <TODO>/basque_linguistic_competence/data/bl2mp.jsonl
+training_split: null
+validation_split: null
+test_split: train
+# fewshot_split: 
+process_docs: !function utils.process_docs_ab
+
+# Prompting / in-context formatting options:
+# description: ""
+doc_to_text: "{{context}}\n\nA: {{A}}\nB: {{B}}\nErantzuna:"
+doc_to_target: label
+doc_to_choice: ['A', 'B']
+# fewshot_delimiter:
+# target_delimiter:
+
+# Runtime configuration options:
+# num_fewshot: 
+# batch_size: 
+fewshot_config:
+  sampler: !function utils.FewshotSampler
+
+# Scoring details:
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+output_type: multiple_choice
+# generation_kwargs:
+repeats: 1
+should_decontaminate: true
+doc_to_decontamination_query: "{{A}} {{B}}"
+metadata:
+  version: 0.0
+
+# https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/api/task.py#L355
+# .../lib/python3.13/site-packages/lm_eval/api/task.py
+
+# if self.config["task"] in ["ab-instruct_BAT", "ab-instruct_BL2MP", "ab-instruct_EUSKAL"] and self.config["num_fewshot"] > 1:
+#     # One instruction per choice
+#     assert len(inst) == 2
+#     for i in range(len(inst)):
+#         substring = inst[i].doc["context"] + "\n\n"
+#         # arguments (multiple_choice): [(ctx, f"{target_delimiter}{cont}") for cont in choices]
+#         aux = list(inst[i].arguments)
+#         prefix, match, suffix = aux[0].partition(substring)
+#         aux[0] = prefix + match + suffix.replace(substring, "")
+#         inst[i].arguments = tuple(aux)
+#     assert inst[0].arguments[0] == inst[1].arguments[0]

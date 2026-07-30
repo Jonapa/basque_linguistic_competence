@@ -1,0 +1,42 @@
+# Task naming + registration:
+task: ab-base_BL2MP
+# task_alias: 
+# tags: 
+
+# Dataset configuration options:
+dataset_path: json
+dataset_name: null
+dataset_kwargs:
+  data_files: <TODO>/basque_linguistic_competence/data/bl2mp.jsonl
+training_split: null
+validation_split: null
+test_split: train
+# fewshot_split: 
+process_docs: !function utils.process_docs_ab
+
+# Prompting / in-context formatting options:
+description: "{{context}}\n\n"
+doc_to_text: "A: {{A}}\nB: {{B}}\nErantzuna:"
+doc_to_target: label
+doc_to_choice: ['A', 'B']
+# fewshot_delimiter:
+# target_delimiter:
+
+# Runtime configuration options:
+# num_fewshot: 
+# batch_size: 
+fewshot_config:
+  sampler: !function utils.FewshotSampler
+
+# Scoring details:
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+output_type: multiple_choice
+# generation_kwargs:
+repeats: 1
+should_decontaminate: true
+doc_to_decontamination_query: "{{A}} {{B}}"
+metadata:
+  version: 0.0
