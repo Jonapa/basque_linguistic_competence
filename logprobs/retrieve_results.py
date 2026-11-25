@@ -130,11 +130,21 @@ def load_jsonl(input_file: str) -> Tuple[List[str], List[str]]:
     assert len(sentences_good) == len(sentences_bad), "Minimal pairs quantity does not match."
     return list(sentences_good), list(sentences_bad)
 
-def check_results(directory: str, skip_missing=True, check_tokens: bool=True) -> Dict[str, Dict[str, float | None]]:
+def get_prompt_id(path: Path, dataset: str, task: str) -> str:
+    # File name: {model}-{dataset}-{task}-{date}[-{prompt ids}].jsonl ; date has no '-'
+    suffix = path.stem.rpartition(f"-{dataset}-{task}-")[2]
+    _, _, prompt_id = suffix.partition("-")
+    return prompt_id or "default"
+
+def check_results(directory: str, skip_missing=True, check_tokens: bool=True) -> Dict[str, Dict[str, List[float] | Dict[str, Dict[str, List[int]]]]]:
     results = {base_model: {task: [] for task in base_models[1]} for base_model in base_models[0]} | {instruct_model: {task: [] for task in instruct_models[1]} for instruct_model in instruct_models[0]}
+    # Per prompt (run), 0/1 correctness for each minimal pair: {model: {"per_pair": {task: {prompt_id: [0, 1, ...]}}}}
+    for model, tasks in results.items():
+        tasks["per_pair"] = {task: {} for task in tasks}
 
     for path in tqdm(list(Path(directory).rglob("*.jsonl"))):
         acc, total = 0, 0
+        pair_correct: List[int] = []
         with path.open("r", encoding="utf-8") as f:
             # Read the first line
             first_line = json.loads(f.readline())
@@ -206,20 +216,26 @@ def check_results(directory: str, skip_missing=True, check_tokens: bool=True) ->
                 perplexity_good = math.exp(-sum(good_logprobs) / len(good_logprobs))
                 perplexity_bad = math.exp(-sum(bad_logprobs) / len(bad_logprobs))
 
-                if perplexity_good < perplexity_bad:
-                    acc += 1
+                correct = int(perplexity_good < perplexity_bad)
+                pair_correct.append(correct)
+                acc += correct
                 total += 1
             try:
                 results[model][f"{dataset}-{task}"].append(acc / total)
             except KeyError:
                 continue
+            prompt_id = get_prompt_id(path, dataset, task)
+            assert prompt_id not in results[model]["per_pair"][f"{dataset}-{task}"], f"Duplicate prompt {prompt_id} for {model} {dataset}-{task} ({path})"
+            results[model]["per_pair"][f"{dataset}-{task}"][prompt_id] = pair_correct
     return results
 
 if __name__ == "__main__":
     results = check_results(directory=logs_path, skip_missing=False, check_tokens=False)
     for model, stats in results.items():
         for task, acc in stats.items():
-            if "ctxt" in task or "inst" in task:
+            if task == "per_pair":
+                continue
+            elif "ctxt" in task or "inst" in task:
                 assert len(acc) == 8, f"{model} does not have all 8 prompts for {task}."
             elif "sent" in task:
                 assert len(acc) == 1, f"{model} does not have all 1 prompts for {task}."

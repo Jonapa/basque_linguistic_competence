@@ -28,6 +28,8 @@ bot_tokens = ["\n<think>\n", "\n<|channel>thought\n", "<think>"]
 pattern = "|".join(map(re.escape, bot_tokens))
 pattern = f"(?:{pattern})(?!<)"
 
+N_AB_PROMPTS: int = 5  # Number of prompts in missing_tasks/a_b/utils.py (prompts_ab)
+
 def check_results(directory: str, skip_missing: bool=False) -> Dict[str, Dict[str, float | None]]:
     global models_tasks
     # Initialize results dictionary
@@ -36,6 +38,10 @@ def check_results(directory: str, skip_missing: bool=False) -> Dict[str, Dict[st
         for models, tasks in models_tasks
         for model in models
     }
+    # Per A-B prompt, 0/1 correctness for each minimal pair: {model: {"per_pair": {task: {"system_0-user_k": [0, 1, None, ...]}}}}
+    # Lists are indexed by the pair position in the dataset; None marks pairs used as few-shot examples (excluded from accuracy).
+    for model in results:
+        results[model]["per_pair"] = {}
     # retrieve tasks results
     for direc in [f"{directory}/{subdir}" for subdir in ["THINKING", "THINKING-SAMPLING"]]:
         for path in Path(direc).rglob("*.jsonl"):
@@ -47,14 +53,20 @@ def check_results(directory: str, skip_missing: bool=False) -> Dict[str, Dict[st
             accs: List[int] = []
             cont = 0
             with path.open("r") as f:
-                for line in f:
-                    data = json.loads(line)
+                samples = [json.loads(line) for line in f]
+                assert len(samples) % N_AB_PROMPTS == 0, f"Unexpected number of samples in {path}"
+                n_pairs: int = len(samples) // N_AB_PROMPTS
+                pair_accs: List[List[int | None]] = [[None] * n_pairs for _ in range(N_AB_PROMPTS)]
+                for data in sorted(samples, key=lambda x: x["doc_id"]):
                     data1, data2 = re.split(pattern, data["arguments"][0][0], maxsplit=1)[0], re.split(pattern, data["arguments"][1][0], maxsplit=1)[0]
 
                     if data1.count("\nB: ") != n_shot + 1 and data2.count("\nB: ") != n_shot + 1:
                         cont += 1
                         continue
                     accs.append(data["acc"])
+                    # Docs are ordered prompt-major: doc_id = prompt * n_pairs + pair
+                    prompt_idx, pair_idx = divmod(data["doc_id"], n_pairs)
+                    pair_accs[prompt_idx][pair_idx] = int(data["acc"])
             
             if cont != 25:
                 print(model)
@@ -63,6 +75,11 @@ def check_results(directory: str, skip_missing: bool=False) -> Dict[str, Dict[st
             accs = np.array_split(accs, 5)
             accs = [np.mean(acc) for acc in accs]
             results[model][f"{task}-{thinking}"] = accs
+            # Same prompt naming as logprobs results (instruct tasks): system_0-user_k
+            results[model]["per_pair"][f"{task}-{thinking}"] = {f"system_0-user_{k}": pair_acc for k, pair_acc in enumerate(pair_accs)}
+            for acc, pair_acc in zip(accs, pair_accs):
+                valid = [a for a in pair_acc if a is not None]
+                assert np.isclose(acc, np.mean(valid)), f"Per-pair results do not match prompt accuracy for {model} {task}-{thinking}"
     return results
 
 if __name__ == "__main__":
@@ -71,7 +88,7 @@ if __name__ == "__main__":
     for model, stats in results.items():
         accs: List[float] = []
         for task, acc in stats.items():
-            if acc is None:
+            if task != "per_pair" and acc is None:
                 print(f"Missing result for model {model} on task {task}")
 
     with open("data-3.json", "w") as file:
